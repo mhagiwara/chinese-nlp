@@ -1,49 +1,103 @@
 0
 3Q大战 da4zhan4 360 と QQ の戦い
 A
+安全漏洞	an1quan2lou4dong4	セキュリティーホール
 B
+百度搜霸	bai3du4sou1ba4	百度サーチツールバー
 彪悍	biao1han4	たけだけしい、荒々しい
+博取	bo2qu3	獲得
+不予置评	bu4yu3zhi4ping2	ノーコメント
 C
 彩排	cai3pai2	リハーサル
+重叠	chong2die2	オーバーラップ
+促销	cu4xiao1	販売促進
 D
+大旱	da4han4	干ばつ
 打假 da3jia4 模造品を撲滅する
+豆你玩	dou4ni3wan2	緑豆の価格高騰
 E
 F
+发力	fa1li4	注力
+放过	fang4guo4	見逃す
+防火墙	fang2huo3qiang2	ファイヤーウォール
+封杀	feng1sha1	締め出す
 风云榜	feng1yun2bang3	ランキング
 G
 勾勒	gou1le4	概述する
 关键词	guan1jian4ci2	キーワード
 H
+好莱坞	hao3lai2wu4	ハリウッド
+挥之不去	hui1zhi1bu2qu4	忘れられない
 I
 J
+积分	ji1fen1	ポイントが貯まる、ポイント制
 揭晓	jie1xiao3	発表する、公にする
 敬佩	jing4pei4	感服する
+举措	ju3cuo4	措置
 K
 看家	kan4jia1	得意とする、レパートリーの
+靠谱	kao4pu3	信頼できる
+口水仗	kou3shui3zhang4	口喧嘩
+捆绑	kun3bang3	バンドル
 L
+拦截	lan2jie2	遮る
+流量	liu2liang4	トラフィック
+龙头	long2tou2	トップ
 M
 谜底	mi2di3 	謎、真実
 迷津	mi2jin1	迷路
+莫须有罪名	mo4xu1you3zui4ming2	根拠のない言われ
+穆罕默德	mu4han3mo4de2	ムハンマド
 N
+纳粹	na4cui4	ナチス(の)
 你懂的	ni3dong3de	英語の”you know”「ほら、あれ、」のように物事を暗示する言い方
+黏性	nian2xing4	ユーザーの定着性
 O
 P
 盘点	pan2dian3	棚卸し
+泡妞	pao4niu1	女を引っかける
+炮制	pao2zhi4	でっち上げる
+屏蔽	ping2bi4	隠蔽する
 Q
+旗下	qi2xia4	傘下
+渠道	qu2dao4	ルート
 R
+人口普查	ren2kou3 pu3cha2	人口一斉調査（国勢調査）
+入乡随(俗)	ru4xiang1sui2su2	郷に入れば郷に従え
 S
+三聚氰胺	san1ju4qing2an4	メラミン
 上海 世博会	shang4hai3 shi4bo2hui4	上海万博
 上涨 shang4zhang3	(物価の)上昇
+涉嫌	she4xian2	疑われる
+审核	shen3he2	審査
+实惠	shi2hui4	実がある
+试水	shi4shui3	ためし
+收购	shou1gou4	買収
 守岁 shou3sui4	大晦日の日に寝ずに年越しする習慣
+首席技术官	shou3xi2ji4shu4guan1	CTO
+搜狗	sou1gou3	Sohu傘下の検索サイト：www.sogou.com
+搜狐	sou1hu2	中国の有名なポータルサイト：www.sohu.com
+蒜你狠	suan4ni3hen3	ニンニクの価格高騰
 T
+弹出框	tan2chu1kuang4	ポップアップボックス
 逃离北上广	tao2li2 bei3shang4guang3	北京・上海・広州など生活費の高い都市を離れること。同名のシリーズ書籍。
+透露	tou4lu4	伝える（公表されていない情報をばらすニュアンスがある）
 U
 V
 W
 微服私访	wei1fu2si1fang3	（私服で）こっそりと訪問する
 围观	wei2guan1	野次馬見物をする
+威胁	wei1xie2	脅威
+诬蔑	wu1mie4	中傷する
 X
+携手	xie2shou3	提携
+寻常	xun2chang2	通常、平常
 Y
+盈亏	ying2kui1	損益
+舆论	yu2lun4	与論
 Z
+造谣	zao4yao2	デマを流す
 镇定	zhen4ding4	落ち着く
+争夺	zheng1duo2	争奪
+正品	zheng4pin3	本物
 走向	zou3xiang4	トレンド
