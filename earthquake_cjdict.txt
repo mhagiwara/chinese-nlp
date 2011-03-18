@@ -3,6 +3,7 @@
 爆炸	baozha	爆発
 β射线	betashexian	β線
 钚	bu	プルトニウム
+避难所	bìnànsuǒ	避難所
 撤离	cheli	脱出
 冲走	chongzou	(津波に)さらわれる
 淡定	danding	冷静(な,に)
@@ -16,6 +17,7 @@
 γ射线	gammashexian	γ線
 工装	gongzhuang	作業着
 工作人员	gongzuorenyuan	係員
+国际原子能机构	guójìyuánzǐnéngjīgòu	国際原子力機関 (IAEA)
 海啸	haixiao	津波
 号召	haozhao	呼び掛け
 核电站	hedianzhan	原子力発電所
