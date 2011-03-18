@@ -22,6 +22,7 @@
 核乏燃料	hefaranliao	使用済み核燃料（＝废核燃料）
 核辐射	hefushe	放射能
 核心熔毁	hexinronghui	炉心融解
+核裂变	hélièbiàn	核分裂反応
 级	ji	マグニチュード
 节电	jiedian	節電
 计划停电	jihuatingdian	計画停電
@@ -33,6 +34,7 @@
 名单	mingdan	名簿
 平安	pingan	安否,無事
 平安信息	pinganxinxi	安否情報
+硼酸	péngsuān	ホウ酸
 抢购	qianggou	買い占め
 切尔诺贝利	qieernuobeili	チェルノブイリ
 氢爆炸	qingbaozha	水素爆発
@@ -65,3 +67,4 @@
 震中	zhenzhong	震源
 直升机	zhishengji	ヘリコプター
 志愿者	zhiyuanzhe	ボランティア
+中子	zhōngzǐ	中性子
