@@ -18,12 +18,13 @@
 工装	gōngzhuāng	作業着
 工作人员	gōngzuòrényuán	係員
 国际原子能机构	guójìyuánzǐnéngjīgòu	国際原子力機関 (IAEA)
-海啸	haixiao	津波
-号召	haozhao	呼び掛け
-核电站	hedianzhan	原子力発電所
-核乏燃料	hefaranliao	使用済み核燃料（＝废核燃料）
-核辐射	hefushe	放射能
-核心熔毁	hexinronghui	炉心融解
+海啸	hǎixiào	津波
+号召	hàozhào	呼び掛け
+核电站	hédiànzhàn	原子力発電所
+核乏燃料	héfáránliào	使用済み核燃料（＝废核燃料）
+核辐射	héfúshè	放射線
+放射性	fàngshèxìng	放射能
+核心熔毁	héxīnrónghuǐ	炉心融解
 核裂变	hélièbiàn	核分裂反応
 级	ji	マグニチュード
 节电	jiedian	節電
