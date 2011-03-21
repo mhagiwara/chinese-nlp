@@ -27,47 +27,47 @@
 核心熔毁	héxīnrónghuǐ	動	炉心融解
 核裂变	hélièbiàn	名	核分裂反応
 级	jí	名	マグニチュード
-节电	jiédiàn		節電
-计划停电	jìhuàtíngdiàn		計画停電
-经济舱症候群	jīngjìcāngzhènghòuqún		エコノミークラス症候群
-捐款	juānkuǎn		募金
-捐赠	juānzèng		(物資の)寄付
-抗震	kàngzhèn		耐震
-媒体	méitǐ		メディア
-名单	míngdān		名簿
-平安	píngān		安否,無事
-平安信息	píngānxìnxī		安否情報
-硼酸	péngsuān		ホウ酸
-抢购	qiǎnggòu		買い占め
-切尔诺贝利	qièěrnuòbèilì		チェルノブイリ
-氢爆炸	qīngbàozhà		水素爆発
-氢气	qīngqì		水素
-日本东北大地震	rìběndōngběidàdìzhèn		東日本大地震
-日本红十字会	rìběnhóngshízìhuì		日本赤十字
-散布	sǎnbù		(デマを)広める
-铯	sè		セシウム
-上修	shàngxiū		上方修正
-失踪	shīzōng		行方不明
-失踪者	shīzōngzhě		行方不明者
-受灾	shòuzāi		被災,罹災
-搜救	sōujiù		捜索救出活動
-太平洋海域	tàipíngyánghǎiyù		太平洋沖
-天谴	tiānqiǎn		天罰
-网上寻人	wǎngshàngxúnrén		(Google) Person Finder
-下跌	xiàdiē		(株価の)下落
-消息	xiāoxī		安否情報
-泄漏	xièlòu		（放射能）漏れ
-西弗	xīfú		シーベルト
-袭击	xíjī		襲撃
-谣言	yáoyán		デマ
-医疗救护所	yīliáojiùhùsuǒ		医療救護所
-铀	yóu		ウラン
-油罐	yóuguàn		オイルタンク
-遇难者	yùnànzhě		(震災で)死亡した人
-灾害用留言板	zāihàiyòngliúyánbǎn		災害用伝言板
-灾害用留言电话	zāihàiyòngliúyándiànhuà		災害用伝言ダイヤル
-灾区	zāiqū		被災地
-震中	zhènzhōng		震源
-直升机	zhíshēngjī		ヘリコプター
-志愿者	zhìyuànzhě		ボランティア
-中子	zhōngzǐ		中性子
+节电	jiédiàn	動	節電
+计划停电	jìhuàtíngdiàn	動	計画停電
+经济舱症候群	jīngjìcāngzhènghòuqún	名	エコノミークラス症候群
+捐款	juānkuǎn	動	募金
+捐赠	juānzèng	動	(物資の)寄付
+抗震	kàngzhèn	動	耐震
+媒体	méitǐ	名	メディア
+名单	míngdān	名	名簿
+平安	píngān	形	安否,無事
+平安信息	píngānxìnxī	名	安否情報
+硼酸	péngsuān	名	ホウ酸
+抢购	qiǎnggòu	動	買い占め
+切尔诺贝利	qièěrnuòbèilì	名	チェルノブイリ
+氢爆炸	qīngbàozhà	動	水素爆発
+氢气	qīngqì	名	水素
+日本东北大地震	rìběndōngběidàdìzhèn	名	東日本大地震
+日本红十字会	rìběnhóngshízìhuì	名	日本赤十字
+散布	sǎnbù	動	(デマを)広める
+铯	sè	名	セシウム
+上修	shàngxiū	動	上方修正
+失踪	shīzōng	動	行方不明
+失踪者	shīzōngzhě	名	行方不明者
+受灾	shòuzāi	動	被災,罹災
+搜救	sōujiù	動	捜索救出活動
+太平洋海域	tàipíngyánghǎiyù	名	太平洋沖
+天谴	tiānqiǎn	動	天罰
+网上寻人	wǎngshàngxúnrén	名	(Google) Person Finder
+下跌	xiàdiē	動	(株価の)下落
+消息	xiāoxī	名	安否情報
+泄漏	xièlòu	動	（放射能）漏れ
+西弗	xīfú	名	シーベルト
+袭击	xíjī	動	襲撃
+谣言	yáoyán	名	デマ
+医疗救护所	yīliáojiùhùsuǒ	名	医療救護所
+铀	yóu	名	ウラン
+油罐	yóuguàn	名	オイルタンク
+遇难者	yùnànzhě	名	(震災で)死亡した人
+灾害用留言板	zāihàiyòngliúyánbǎn	名	災害用伝言板
+灾害用留言电话	zāihàiyòngliúyándiànhuà	名	災害用伝言ダイヤル
+灾区	zāiqū	名	被災地
+震中	zhènzhōng	名	震源
+直升机	zhíshēngjī	名	ヘリコプター
+志愿者	zhìyuànzhě	名	ボランティア
+中子	zhōngzǐ	名	中性子
