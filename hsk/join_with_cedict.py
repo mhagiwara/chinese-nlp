@@ -25,6 +25,8 @@ def main(ifile=sys.stdin, ofile=sys.stdout, cedict_file=None):
         word, pos, hsk_level = line.decode('utf-8').strip().split('\t')
         cedict_entries = [e for e in cedict[word]
                           if 'variant' not in e and 'surname' not in e]
+        if not cedict_entries:
+            cedict_entries = ['NO ENTRIES FOUND!!!']
         for entry in cedict_entries:
             ofile.write(u'%s\t%s\t%s\t%s\n' % (word, pos or '', hsk_level, entry))
 

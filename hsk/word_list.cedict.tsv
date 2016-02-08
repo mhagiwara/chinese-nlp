@@ -12,24 +12,16 @@
 出租车		1	{"pinyin": "chu1 zu1 che1", "word_sp": "出租车", "word_tr": "出租車", "glosses": ["taxi", "(Taiwan) rental car"]}
 打电话		1	{"pinyin": "da3 dian4 hua4", "word_sp": "打电话", "word_tr": "打電話", "glosses": ["to make a telephone call"]}
 大		1	{"pinyin": "da4", "word_sp": "大", "word_tr": "大", "glosses": ["big", "huge", "large", "major", "great", "wide", "deep", "older (than)", "oldest", "eldest", "greatly", "very much", "(dialect) father", "father's elder or younger brother"]}
-大		1	{"pinyin": "dai4", "word_sp": "大", "word_tr": "大", "glosses": ["see 大夫[dai4 fu5]"]}
 的		1	{"pinyin": "de5", "word_sp": "的", "word_tr": "的", "glosses": ["of", "~'s (possessive particle)", "(used after an attribute)", "(used to form a nominal expression)", "(used at the end of a declarative sentence for emphasis)"]}
-的		1	{"pinyin": "di4", "word_sp": "的", "word_tr": "的", "glosses": ["aim", "clear"]}
-的		1	{"pinyin": "di1", "word_sp": "的", "word_tr": "的", "glosses": ["see 的士[di1 shi4]"]}
-的		1	{"pinyin": "di2", "word_sp": "的", "word_tr": "的", "glosses": ["really and truly"]}
 点		1	{"pinyin": "dian3", "word_sp": "点", "word_tr": "點", "glosses": ["point", "dot", "drop", "speck", "o'clock", "point (in space or time)", "to draw a dot", "to check on a list", "to choose", "to order (food in a restaurant)", "to touch briefly", "to hint", "to light", "to ignite", "to pour a liquid drop by drop", "(old) one fifth of a two-hour watch 更[geng1]", "dot stroke in Chinese characters", "classifier for items"]}
 电脑		1	{"pinyin": "dian4 nao3", "word_sp": "电脑", "word_tr": "電腦", "glosses": ["computer", "CL:臺|台[tai2]"]}
 电视		1	{"pinyin": "dian4 shi4", "word_sp": "电视", "word_tr": "電視", "glosses": ["television", "TV", "CL:臺|台[tai2],個|个[ge4]"]}
 电影		1	{"pinyin": "dian4 ying3", "word_sp": "电影", "word_tr": "電影", "glosses": ["movie", "film", "CL:部[bu4],片[pian4],幕[mu4],場|场[chang3]"]}
-东西		1	{"pinyin": "dong1 xi1", "word_sp": "东西", "word_tr": "東西", "glosses": ["east and west"]}
 东西		1	{"pinyin": "dong1 xi5", "word_sp": "东西", "word_tr": "東西", "glosses": ["thing", "stuff", "person", "CL:個|个[ge4],件[jian4]"]}
 都		1	{"pinyin": "dou1", "word_sp": "都", "word_tr": "都", "glosses": ["all", "both", "entirely", "(used for emphasis) even", "already", "(not) at all"]}
-都		1	{"pinyin": "du1", "word_sp": "都", "word_tr": "都", "glosses": ["capital city", "metropolis"]}
-读		1	{"pinyin": "dou4", "word_sp": "读", "word_tr": "讀", "glosses": ["comma", "phrase marked by pause"]}
 读		1	{"pinyin": "du2", "word_sp": "读", "word_tr": "讀", "glosses": ["to read", "to study", "reading of word (i.e. pronunciation), similar to 拼音[pin1 yin1]"]}
 对不起		1	{"pinyin": "dui4 bu5 qi3", "word_sp": "对不起", "word_tr": "對不起", "glosses": ["unworthy", "to let down", "I'm sorry", "excuse me", "pardon me", "if you please", "sorry? (please repeat)"]}
 多		1	{"pinyin": "duo1", "word_sp": "多", "word_tr": "多", "glosses": ["many", "much", "often", "a lot of", "numerous", "more", "in excess", "how (to what extent)", "multi-", "Taiwan pr. [duo2] when it means \"how\""]}
-多少		1	{"pinyin": "duo1 shao3", "word_sp": "多少", "word_tr": "多少", "glosses": ["number", "amount", "somewhat"]}
 多少		1	{"pinyin": "duo1 shao5", "word_sp": "多少", "word_tr": "多少", "glosses": ["how much", "how many", "which (number)", "as much as"]}
 儿子		1	{"pinyin": "er2 zi5", "word_sp": "儿子", "word_tr": "兒子", "glosses": ["son"]}
 二		1	{"pinyin": "er4", "word_sp": "二", "word_tr": "二", "glosses": ["two", "2", "(Beijing dialect) stupid"]}
@@ -41,47 +33,31 @@
 工作		1	{"pinyin": "gong1 zuo4", "word_sp": "工作", "word_tr": "工作", "glosses": ["to work", "(of a machine) to operate", "job", "work", "task", "CL:個|个[ge4],份[fen4],項|项[xiang4]"]}
 狗		1	{"pinyin": "gou3", "word_sp": "狗", "word_tr": "狗", "glosses": ["dog", "CL:隻|只[zhi1],條|条[tiao2]"]}
 汉语		1	{"pinyin": "Han4 yu3", "word_sp": "汉语", "word_tr": "漢語", "glosses": ["Chinese language", "CL:門|门[men2]"]}
-好		1	{"pinyin": "hao4", "word_sp": "好", "word_tr": "好", "glosses": ["to be fond of", "to have a tendency to", "to be prone to"]}
 好		1	{"pinyin": "hao3", "word_sp": "好", "word_tr": "好", "glosses": ["good", "well", "proper", "good to", "easy to", "very", "so", "(suffix indicating completion or readiness)", "(of an unmarried couple) to be close", "to be keen on each other"]}
 号		1	{"pinyin": "hao4", "word_sp": "号", "word_tr": "號", "glosses": ["ordinal number", "day of a month", "mark", "sign", "business establishment", "size", "ship suffix", "horn (wind instrument)", "bugle call", "assumed name", "to take a pulse", "classifier used to indicate number of people"]}
-号		1	{"pinyin": "hao2", "word_sp": "号", "word_tr": "號", "glosses": ["roar", "cry", "CL:個|个[ge4]"]}
-喝		1	{"pinyin": "he4", "word_sp": "喝", "word_tr": "喝", "glosses": ["to shout loudly"]}
 喝		1	{"pinyin": "he1", "word_sp": "喝", "word_tr": "喝", "glosses": ["to drink", "My goodness!"]}
-和		1	{"pinyin": "hu2", "word_sp": "和", "word_tr": "和", "glosses": ["to complete a set in mahjong or playing cards"]}
-和		1	{"pinyin": "huo2", "word_sp": "和", "word_tr": "和", "glosses": ["soft", "warm"]}
-和		1	{"pinyin": "he4", "word_sp": "和", "word_tr": "和", "glosses": ["to compose a poem in reply (to sb's poem) using the same rhyme sequence", "to join in the singing", "to chime in with others"]}
-和		1	{"pinyin": "huo4", "word_sp": "和", "word_tr": "和", "glosses": ["to mix together", "to blend"]}
 和		1	{"pinyin": "he2", "word_sp": "和", "word_tr": "和", "glosses": ["and", "together with", "with", "sum", "union", "peace", "harmony", "Taiwan pr. [han4] when it means \"and\" or \"with\""]}
 很		1	{"pinyin": "hen3", "word_sp": "很", "word_tr": "很", "glosses": ["(adverb of degree)", "quite", "very", "awfully"]}
 后面		1	{"pinyin": "hou4 mian5", "word_sp": "后面", "word_tr": "後面", "glosses": ["rear", "back", "behind", "later", "afterwards"]}
 回		1	{"pinyin": "hui2", "word_sp": "回", "word_tr": "回", "glosses": ["to circle", "to go back", "to turn around", "to answer", "to return", "to revolve", "Hui ethnic group (Chinese Muslims)", "time", "classifier for acts of a play", "section or chapter (of a classic book)"]}
-回		1	{"pinyin": "hui2", "word_sp": "回", "word_tr": "迴", "glosses": ["to curve", "to return", "to revolve"]}
-会		1	{"pinyin": "kuai4", "word_sp": "会", "word_tr": "會", "glosses": ["to balance an account", "accountancy", "accounting"]}
 会		1	{"pinyin": "hui4", "word_sp": "会", "word_tr": "會", "glosses": ["can", "to be possible", "to be able to", "will", "to be likely to", "to be sure to", "to assemble", "to meet", "to gather", "to see", "union", "group", "association", "CL:個|个[ge4]", "a moment (Taiwan pr. for this sense is [hui3])"]}
-几		1	{"pinyin": "ji1", "word_sp": "几", "word_tr": "幾", "glosses": ["almost"]}
 几		1	{"pinyin": "ji3", "word_sp": "几", "word_tr": "幾", "glosses": ["how much", "how many", "several", "a few"]}
-几		1	{"pinyin": "ji1", "word_sp": "几", "word_tr": "几", "glosses": ["small table"]}
 家		1	{"pinyin": "jia1", "word_sp": "家", "word_tr": "家", "glosses": ["home", "family", "(polite) my (sister, uncle etc)", "classifier for families or businesses", "refers to the philosophical schools of pre-Han China", "noun suffix for a specialist in some activity, such as a musician or revolutionary, corresponding to English -ist, -er, -ary or -ian", "CL:個|个[ge4]"]}
-家		1	{"pinyin": "jia1", "word_sp": "家", "word_tr": "傢", "glosses": ["see 傢伙|家伙[jia1 huo5]"]}
 叫		1	{"pinyin": "jiao4", "word_sp": "叫", "word_tr": "叫", "glosses": ["to shout", "to call", "to order", "to ask", "to be called", "by (indicates agent in the passive mood)"]}
 今天		1	{"pinyin": "jin1 tian1", "word_sp": "今天", "word_tr": "今天", "glosses": ["today", "at the present", "now"]}
 九		1	{"pinyin": "jiu3", "word_sp": "九", "word_tr": "九", "glosses": ["nine", "9"]}
 开		1	{"pinyin": "kai1", "word_sp": "开", "word_tr": "開", "glosses": ["to open", "to start", "to turn on", "to boil", "to write out (a prescription, check, invoice etc)", "to operate (a vehicle)", "carat (gold)", "abbr. for Kelvin, 開爾文|开尔文[Kai1 er3 wen2]", "abbr. for 開本|开本[kai1 ben3], book format"]}
-看		1	{"pinyin": "kan1", "word_sp": "看", "word_tr": "看", "glosses": ["to look after", "to take care of", "to watch", "to guard"]}
 看		1	{"pinyin": "kan4", "word_sp": "看", "word_tr": "看", "glosses": ["to see", "to look at", "to read", "to watch", "to visit", "to call on", "to consider", "to regard as", "to look after", "to treat (an illness)", "to depend on", "to feel (that)", "(after verb) to give it a try", "Watch out! (for a danger)"]}
 看见		1	{"pinyin": "kan4 jian4", "word_sp": "看见", "word_tr": "看見", "glosses": ["to see", "to catch sight of"]}
 块		1	{"pinyin": "kuai4", "word_sp": "块", "word_tr": "塊", "glosses": ["lump (of earth)", "chunk", "piece", "classifier for pieces of cloth, cake, soap etc", "(coll.) classifier for money and currency units"]}
 来		1	{"pinyin": "lai2", "word_sp": "来", "word_tr": "來", "glosses": ["to come", "to arrive", "to come round", "ever since", "next"]}
 老师		1	{"pinyin": "lao3 shi1", "word_sp": "老师", "word_tr": "老師", "glosses": ["teacher", "CL:個|个[ge4],位[wei4]"]}
-了		1	{"pinyin": "liao3", "word_sp": "了", "word_tr": "瞭", "glosses": ["(of eyes) bright", "clear-sighted", "to understand clearly"]}
 了		1	{"pinyin": "le5", "word_sp": "了", "word_tr": "了", "glosses": ["(modal particle intensifying preceding clause)", "(completed action marker)"]}
 冷		1	{"pinyin": "leng3", "word_sp": "冷", "word_tr": "冷", "glosses": ["cold"]}
-里		1	{"pinyin": "li3", "word_sp": "里", "word_tr": "里", "glosses": ["li (Chinese mile)", "500 meters (modern)", "home", "hometown", "village", "neighborhood", "administrative unit"]}
 里		1	{"pinyin": "li3", "word_sp": "里", "word_tr": "裡", "glosses": ["lining", "interior", "inside", "internal", "also written 裏|里[li3]"]}
 六		1	{"pinyin": "liu4", "word_sp": "六", "word_tr": "六", "glosses": ["six", "6"]}
 妈妈		1	{"pinyin": "ma1 ma5", "word_sp": "妈妈", "word_tr": "媽媽", "glosses": ["mama", "mommy", "mother", "CL:個|个[ge4],位[wei4]"]}
 吗		1	{"pinyin": "ma5", "word_sp": "吗", "word_tr": "嗎", "glosses": ["(question particle for \"yes-no\" questions)"]}
-吗		1	{"pinyin": "ma3", "word_sp": "吗", "word_tr": "嗎", "glosses": ["see 嗎啡|吗啡, morphine"]}
 买		1	{"pinyin": "mai3", "word_sp": "买", "word_tr": "買", "glosses": ["to buy", "to purchase"]}
 猫		1	{"pinyin": "mao1", "word_sp": "猫", "word_tr": "貓", "glosses": ["cat", "CL:隻|只[zhi1]", "(dialect) to hide oneself", "(coll.) modem"]}
 没关系		1	{"pinyin": "mei2 guan1 xi5", "word_sp": "没关系", "word_tr": "沒關係", "glosses": ["it doesn't matter"]}
@@ -91,11 +67,9 @@
 明天		1	{"pinyin": "ming2 tian1", "word_sp": "明天", "word_tr": "明天", "glosses": ["tomorrow"]}
 哪		1	{"pinyin": "na3", "word_sp": "哪", "word_tr": "哪", "glosses": ["how", "which"]}
 哪		1	{"pinyin": "nei3", "word_sp": "哪", "word_tr": "哪", "glosses": ["which? (interrogative, followed by classifier or numeral-classifier)"]}
-哪		1	{"pinyin": "na5", "word_sp": "哪", "word_tr": "哪", "glosses": ["(particle equivalent to 啊 after noun ending in -n)"]}
 哪儿		1	{"pinyin": "na3 r5", "word_sp": "哪儿", "word_tr": "哪兒", "glosses": ["where?", "wherever", "anywhere"]}
 那		1	{"pinyin": "na4", "word_sp": "那", "word_tr": "那", "glosses": ["that", "those", "then (in that case)", "commonly pr. [nei4] before a classifier, esp. in Beijing"]}
 呢		1	{"pinyin": "ne5", "word_sp": "呢", "word_tr": "呢", "glosses": ["particle indicating that a previously asked question is to be applied to the preceding word (\"What about ...?\", \"And ...?\")", "particle for inquiring about location (\"Where is ...?\")", "particle signaling a pause, to emphasize the preceding words and allow the listener time to take them on board (\"ok?\", \"are you with me?\")", "(at the end of a declarative sentence) particle indicating continuation of a state or action", "particle indicating strong affirmation"]}
-呢		1	{"pinyin": "ni2", "word_sp": "呢", "word_tr": "呢", "glosses": ["woolen material"]}
 能		1	{"pinyin": "neng2", "word_sp": "能", "word_tr": "能", "glosses": ["can", "to be able to", "might possibly", "ability", "(physics) energy"]}
 你		1	{"pinyin": "ni3", "word_sp": "你", "word_tr": "你", "glosses": ["you (informal, as opposed to courteous 您[nin2])"]}
 年		1	{"pinyin": "nian2", "word_sp": "年", "word_tr": "年", "glosses": ["year", "CL:個|个[ge4]"]}
@@ -113,36 +87,28 @@
 认识		1	{"pinyin": "ren4 shi5", "word_sp": "认识", "word_tr": "認識", "glosses": ["to know", "to recognize", "to be familiar with", "to get acquainted with sb", "knowledge", "understanding", "awareness", "cognition"]}
 三		1	{"pinyin": "san1", "word_sp": "三", "word_tr": "三", "glosses": ["three", "3"]}
 商店		1	{"pinyin": "shang1 dian4", "word_sp": "商店", "word_tr": "商店", "glosses": ["store", "shop", "CL:家[jia1],個|个[ge4]"]}
-上		1	{"pinyin": "shang3", "word_sp": "上", "word_tr": "上", "glosses": ["see 上聲|上声[shang3 sheng1]"]}
 上		1	{"pinyin": "shang4", "word_sp": "上", "word_tr": "上", "glosses": ["on top", "upon", "above", "upper", "previous", "first (of multiple parts)", "to climb", "to get onto", "to go up", "to attend (class or university)"]}
 上午		1	{"pinyin": "shang4 wu3", "word_sp": "上午", "word_tr": "上午", "glosses": ["morning", "CL:個|个[ge4]"]}
 少		1	{"pinyin": "shao3", "word_sp": "少", "word_tr": "少", "glosses": ["few", "less", "to lack", "to be missing", "to stop (doing sth)", "seldom"]}
-少		1	{"pinyin": "shao4", "word_sp": "少", "word_tr": "少", "glosses": ["young"]}
 谁		1	{"pinyin": "shei2", "word_sp": "谁", "word_tr": "誰", "glosses": ["who", "also pr. [shui2]"]}
 什么		1	{"pinyin": "shen2 me5", "word_sp": "什么", "word_tr": "什麼", "glosses": ["what?", "who?", "something", "anything"]}
 十		1	{"pinyin": "shi2", "word_sp": "十", "word_tr": "十", "glosses": ["ten", "10"]}
 时候		1	{"pinyin": "shi2 hou5", "word_sp": "时候", "word_tr": "時候", "glosses": ["time", "length of time", "moment", "period"]}
 是		1	{"pinyin": "shi4", "word_sp": "是", "word_tr": "是", "glosses": ["is", "are", "am", "yes", "to be"]}
 书		1	{"pinyin": "shu1", "word_sp": "书", "word_tr": "書", "glosses": ["book", "letter", "document", "CL:本[ben3],冊|册[ce4],部[bu4]", "to write"]}
-书		1	{"pinyin": "Shu1", "word_sp": "书", "word_tr": "書", "glosses": ["abbr. for 書經|书经[Shu1 jing1]"]}
 水		1	{"pinyin": "shui3", "word_sp": "水", "word_tr": "水", "glosses": ["water", "river", "liquid", "beverage", "additional charges or income", "(of clothes) classifier for number of washes"]}
 水果		1	{"pinyin": "shui3 guo3", "word_sp": "水果", "word_tr": "水果", "glosses": ["fruit", "CL:個|个[ge4]"]}
 睡觉		1	{"pinyin": "shui4 jiao4", "word_sp": "睡觉", "word_tr": "睡覺", "glosses": ["to go to bed", "to sleep"]}
 说		1	{"pinyin": "shuo1", "word_sp": "说", "word_tr": "說", "glosses": ["to speak", "to say", "to explain", "to scold", "to tell off", "a theory (usually in compounds such as 日心说 heliocentric theory)"]}
-说		1	{"pinyin": "shui4", "word_sp": "说", "word_tr": "說", "glosses": ["to persuade"]}
 四		1	{"pinyin": "si4", "word_sp": "四", "word_tr": "四", "glosses": ["four", "4"]}
 岁		1	{"pinyin": "sui4", "word_sp": "岁", "word_tr": "歲", "glosses": ["classifier for years (of age)", "year", "year (of crop harvests)"]}
 他		1	{"pinyin": "ta1", "word_sp": "他", "word_tr": "他", "glosses": ["he or him", "(used for either sex when the sex is unknown or unimportant)", "(used before sb's name for emphasis)", "(used as a meaningless mock object)", "other", "another"]}
 她		1	{"pinyin": "ta1", "word_sp": "她", "word_tr": "她", "glosses": ["she"]}
 太		1	{"pinyin": "tai4", "word_sp": "太", "word_tr": "太", "glosses": ["highest", "greatest", "too (much)", "very", "extremely"]}
 天气		1	{"pinyin": "tian1 qi4", "word_sp": "天气", "word_tr": "天氣", "glosses": ["weather"]}
-听		1	{"pinyin": "ting4", "word_sp": "听", "word_tr": "聽", "glosses": ["(literary pronunciation, still advocated in Taiwan) to rule", "to sentence", "to allow"]}
-听		1	{"pinyin": "yin3", "word_sp": "听", "word_tr": "听", "glosses": ["smile (archaic)"]}
 听		1	{"pinyin": "ting1", "word_sp": "听", "word_tr": "聽", "glosses": ["to listen", "to hear", "to obey", "a can (loanword from English \"tin\")", "classifier for canned beverages"]}
 同学		1	{"pinyin": "tong2 xue2", "word_sp": "同学", "word_tr": "同學", "glosses": ["to study at the same school", "fellow student", "classmate", "CL:位[wei4],個|个[ge4]"]}
-喂	叹词	1	{"pinyin": "wei4", "word_sp": "喂", "word_tr": "餵", "glosses": ["to feed"]}
 喂	叹词	1	{"pinyin": "wei2", "word_sp": "喂", "word_tr": "喂", "glosses": ["hello (when answering the phone)"]}
-喂	叹词	1	{"pinyin": "wei4", "word_sp": "喂", "word_tr": "喂", "glosses": ["hey", "to feed (an animal, baby, invalid etc)"]}
 我		1	{"pinyin": "wo3", "word_sp": "我", "word_tr": "我", "glosses": ["I", "me", "my"]}
 我们		1	{"pinyin": "wo3 men5", "word_sp": "我们", "word_tr": "我們", "glosses": ["we", "us", "ourselves", "our"]}
 五		1	{"pinyin": "wu3", "word_sp": "五", "word_tr": "五", "glosses": ["five", "5"]}
@@ -164,6 +130,8 @@
 学习		1	{"pinyin": "xue2 xi2", "word_sp": "学习", "word_tr": "學習", "glosses": ["to learn", "to study"]}
 学校		1	{"pinyin": "xue2 xiao4", "word_sp": "学校", "word_tr": "學校", "glosses": ["school", "CL:所[suo3]"]}
 一		1	{"pinyin": "yi1", "word_sp": "一", "word_tr": "一", "glosses": ["one", "1", "single", "a (article)", "as soon as", "entire", "whole", "all", "throughout", "\"one\" radical in Chinese characters (Kangxi radical 1)", "also pr. [yao1] for greater clarity when spelling out numbers digit by digit"]}
+一点		1	{"pinyin": "yi1 dian3", "word_sp": "一点", "word_tr": "一點", "glosses": ["a bit", "a little", "one dot", "one point"]}
+一点儿		1	{"pinyin": "yi1 dian3 r5", "word_sp": "一点儿", "word_tr": "一點兒", "glosses": ["erhua variant of 一點|一点[yi1 dian3]"]}
 衣服		1	{"pinyin": "yi1 fu5", "word_sp": "衣服", "word_tr": "衣服", "glosses": ["clothes", "CL:件[jian4],套[tao4]"]}
 医生		1	{"pinyin": "yi1 sheng1", "word_sp": "医生", "word_tr": "醫生", "glosses": ["doctor", "CL:個|个[ge4],位[wei4],名[ming2]"]}
 医院		1	{"pinyin": "yi1 yuan4", "word_sp": "医院", "word_tr": "醫院", "glosses": ["hospital", "CL:所[suo3],家[jia1],座[zuo4]"]}
@@ -181,33 +149,27 @@
 桌子		1	{"pinyin": "zhuo1 zi5", "word_sp": "桌子", "word_tr": "桌子", "glosses": ["table", "desk", "CL:張|张[zhang1],套[tao4]"]}
 字		1	{"pinyin": "zi4", "word_sp": "字", "word_tr": "字", "glosses": ["letter", "symbol", "character", "word", "CL:個|个[ge4]", "courtesy or style name traditionally given to males aged 20 in dynastic China"]}
 昨天		1	{"pinyin": "zuo2 tian1", "word_sp": "昨天", "word_tr": "昨天", "glosses": ["yesterday"]}
+坐		1	{"pinyin": "zuo4", "word_sp": "坐", "word_tr": "坐", "glosses": ["to sit", "to take a seat", "to take (a bus, airplane etc)", "to bear fruit", "variant of 座[zuo4]"]}
 做		1	{"pinyin": "zuo4", "word_sp": "做", "word_tr": "做", "glosses": ["to do", "to make", "to produce", "to write", "to compose", "to act as", "to engage in", "to hold (a party)", "to be", "to become", "to function (in some capacity)", "to serve as", "to be used for", "to form (a bond or relationship)", "to pretend", "to feign", "to act a part", "to put on appearance"]}
 吧		2	{"pinyin": "ba5", "word_sp": "吧", "word_tr": "吧", "glosses": ["(modal particle indicating suggestion or surmise)", "...right?", "...OK?", "...I presume."]}
-吧		2	{"pinyin": "ba1", "word_sp": "吧", "word_tr": "吧", "glosses": ["bar (loanword) (serving drinks, or providing Internet access etc)", "to puff (on a pipe etc)", "(onom.) bang", "abbr. for 貼吧|贴吧[tie1 ba1]"]}
 白		2	{"pinyin": "bai2", "word_sp": "白", "word_tr": "白", "glosses": ["white", "snowy", "pure", "bright", "empty", "blank", "plain", "clear", "to make clear", "in vain", "gratuitous", "free of charge", "reactionary", "anti-communist", "funeral", "to stare coldly", "to write wrong character", "to state", "to explain", "vernacular", "spoken lines in opera"]}
 百		2	{"pinyin": "bai3", "word_sp": "百", "word_tr": "百", "glosses": ["hundred", "numerous", "all kinds of"]}
 帮助		2	{"pinyin": "bang1 zhu4", "word_sp": "帮助", "word_tr": "幫助", "glosses": ["assistance", "aid", "to help", "to assist"]}
 报纸		2	{"pinyin": "bao4 zhi3", "word_sp": "报纸", "word_tr": "報紙", "glosses": ["newspaper", "newsprint", "CL:份[fen4],期[qi1],張|张[zhang1]"]}
-比		2	{"pinyin": "Bi3", "word_sp": "比", "word_tr": "比", "glosses": ["Belgium", "Belgian", "abbr. for 比利時|比利时[Bi3 li4 shi2]"]}
-比		2	{"pinyin": "bi4", "word_sp": "比", "word_tr": "比", "glosses": ["to associate with", "to be near"]}
 比		2	{"pinyin": "bi3", "word_sp": "比", "word_tr": "比", "glosses": ["(particle used for comparison and \"-er than\")", "to compare", "to contrast", "to gesture (with hands)", "ratio"]}
 别		2	{"pinyin": "bie2", "word_sp": "别", "word_tr": "別", "glosses": ["to leave", "to depart", "to separate", "to distinguish", "to classify", "other", "another", "do not", "must not", "to pin", "to stick (sth) in"]}
-别		2	{"pinyin": "bie4", "word_sp": "别", "word_tr": "彆", "glosses": ["to make sb change their ways, opinions etc"]}
 宾馆		2	{"pinyin": "bin1 guan3", "word_sp": "宾馆", "word_tr": "賓館", "glosses": ["guesthouse", "lodge", "hotel", "CL:個|个[ge4],家[jia1]"]}
 长	形容词	2	{"pinyin": "chang2", "word_sp": "长", "word_tr": "長", "glosses": ["length", "long", "forever", "always", "constantly"]}
-长	形容词	2	{"pinyin": "zhang3", "word_sp": "长", "word_tr": "長", "glosses": ["chief", "head", "elder", "to grow", "to develop", "to increase", "to enhance"]}
 唱歌		2	{"pinyin": "chang4 ge1", "word_sp": "唱歌", "word_tr": "唱歌", "glosses": ["to sing a song"]}
 出		2	{"pinyin": "chu1", "word_sp": "出", "word_tr": "出", "glosses": ["to go out", "to come out", "to occur", "to produce", "to go beyond", "to rise", "to put forth", "to happen", "classifier for dramas, plays, operas etc"]}
 穿		2	{"pinyin": "chuan1", "word_sp": "穿", "word_tr": "穿", "glosses": ["to wear", "to put on", "to dress", "to bore through", "to pierce", "to perforate", "to penetrate", "to pass through", "to thread"]}
 次		2	{"pinyin": "ci4", "word_sp": "次", "word_tr": "次", "glosses": ["next in sequence", "second", "the second (day, time etc)", "secondary", "vice-", "sub-", "infra-", "inferior quality", "substandard", "order", "sequence", "hypo- (chemistry)", "classifier for enumerated events: time"]}
-从		2	{"pinyin": "zong4", "word_sp": "从", "word_tr": "從", "glosses": ["second cousin"]}
 从		2	{"pinyin": "cong2", "word_sp": "从", "word_tr": "從", "glosses": ["from", "via", "passing through", "through (a gap)", "past", "ever (followed by negative, meaning never)", "(formerly pr. [zong4] and related to 縱|纵) to follow", "to comply with", "to obey", "to join", "to engage in", "adopting some mode of action or attitude", "follower", "retainer", "accessory", "accomplice", "related by common paternal grandfather or earlier ancestor"]}
-从		2	{"pinyin": "cong1", "word_sp": "从", "word_tr": "從", "glosses": ["lax", "yielding", "unhurried"]}
 错		2	{"pinyin": "cuo4", "word_sp": "错", "word_tr": "錯", "glosses": ["mistake", "wrong", "bad", "interlocking", "complex", "to grind", "to polish", "to alternate", "to stagger", "to miss", "to let slip", "to evade", "to inlay with gold or silver"]}
+打		2	{"pinyin": "da3", "word_sp": "打", "word_tr": "打", "glosses": ["to beat", "to strike", "to hit", "to break", "to type", "to mix up", "to build", "to fight", "to fetch", "to make", "to tie up", "to issue", "to shoot", "to calculate", "to play (a game)", "since", "from"]}
+篮球		2	{"pinyin": "lan2 qiu2", "word_sp": "篮球", "word_tr": "籃球", "glosses": ["basketball", "CL:個|个[ge4],隻|只[zhi1]"]}
 大家		2	{"pinyin": "da4 jia1", "word_sp": "大家", "word_tr": "大家", "glosses": ["everyone", "influential family", "great expert"]}
 到		2	{"pinyin": "dao4", "word_sp": "到", "word_tr": "到", "glosses": ["to (a place)", "until (a time)", "up to", "to go", "to arrive", "(verb complement denoting completion or result of an action)"]}
-得	助词	2	{"pinyin": "de2", "word_sp": "得", "word_tr": "得", "glosses": ["to obtain", "to get", "to gain", "to catch (a disease)", "proper", "suitable", "proud", "contented", "to allow", "to permit", "ready", "finished"]}
-得	助词	2	{"pinyin": "de5", "word_sp": "得", "word_tr": "得", "glosses": ["structural particle: used after a verb (or adjective as main verb), linking it to following phrase indicating effect, degree, possibility etc"]}
 得	助词	2	{"pinyin": "dei3", "word_sp": "得", "word_tr": "得", "glosses": ["to have to", "must", "ought to", "to need to"]}
 等	动词	2	{"pinyin": "deng3", "word_sp": "等", "word_tr": "等", "glosses": ["class", "rank", "grade", "equal to", "same as", "to wait for", "to await", "et cetera", "and so on", "et al. (and other authors)", "after", "as soon as", "once"]}
 弟弟		2	{"pinyin": "di4 di5", "word_sp": "弟弟", "word_tr": "弟弟", "glosses": ["younger brother", "CL:個|个[ge4],位[wei4]"]}
@@ -221,18 +183,14 @@
 高		2	{"pinyin": "gao1", "word_sp": "高", "word_tr": "高", "glosses": ["high", "tall", "above average", "loud", "your (honorific)"]}
 告诉		2	{"pinyin": "gao4 su5", "word_sp": "告诉", "word_tr": "告訴", "glosses": ["to tell", "to inform", "to let know"]}
 哥哥		2	{"pinyin": "ge1 ge5", "word_sp": "哥哥", "word_tr": "哥哥", "glosses": ["older brother", "CL:個|个[ge4],位[wei4]"]}
-给		2	{"pinyin": "ji3", "word_sp": "给", "word_tr": "給", "glosses": ["to supply", "to provide"]}
 给		2	{"pinyin": "gei3", "word_sp": "给", "word_tr": "給", "glosses": ["to", "for", "for the benefit of", "to give", "to allow", "to do sth (for sb)", "(grammatical equivalent of 被)", "(grammatical equivalent of 把)", "(sentence intensifier)"]}
 公共汽车		2	{"pinyin": "gong1 gong4 qi4 che1", "word_sp": "公共汽车", "word_tr": "公共汽車", "glosses": ["bus", "CL:輛|辆[liang4],班[ban1]"]}
 公司		2	{"pinyin": "gong1 si1", "word_sp": "公司", "word_tr": "公司", "glosses": ["(business) company", "company", "firm", "corporation", "incorporated", "CL:家[jia1]"]}
 贵		2	{"pinyin": "gui4", "word_sp": "贵", "word_tr": "貴", "glosses": ["expensive", "noble", "your (name)", "precious"]}
 过	助词	2	{"pinyin": "guo4", "word_sp": "过", "word_tr": "過", "glosses": ["(experienced action marker)", "to cross", "to go over", "to pass (time)", "to celebrate (a holiday)", "to live", "to get along", "excessively", "too-"]}
-还	副词	2	{"pinyin": "huan2", "word_sp": "还", "word_tr": "還", "glosses": ["to pay back", "to return"]}
 还	副词	2	{"pinyin": "hai2", "word_sp": "还", "word_tr": "還", "glosses": ["still", "still in progress", "still more", "yet", "even more", "in addition", "fairly", "passably (good)", "as early as", "even", "also", "else"]}
 孩子		2	{"pinyin": "hai2 zi5", "word_sp": "孩子", "word_tr": "孩子", "glosses": ["child"]}
 好吃		2	{"pinyin": "hao3 chi1", "word_sp": "好吃", "word_tr": "好吃", "glosses": ["tasty", "delicious"]}
-好吃		2	{"pinyin": "hao4 chi1", "word_sp": "好吃", "word_tr": "好吃", "glosses": ["to be fond of eating", "to be gluttonous"]}
-黑		2	{"pinyin": "Hei1", "word_sp": "黑", "word_tr": "黑", "glosses": ["abbr. for Heilongjiang province 黑龍江|黑龙江[Hei1 long2 jiang1]"]}
 黑		2	{"pinyin": "hei1", "word_sp": "黑", "word_tr": "黑", "glosses": ["black", "dark", "sinister", "secret", "shady", "illegal", "to hide (sth) away", "to vilify", "(loanword) to hack (computing)"]}
 红		2	{"pinyin": "hong2", "word_sp": "红", "word_tr": "紅", "glosses": ["red", "popular", "revolutionary", "bonus"]}
 火车站		2	{"pinyin": "huo3 che1 zhan4", "word_sp": "火车站", "word_tr": "火車站", "glosses": ["train station"]}
@@ -254,10 +212,7 @@
 课		2	{"pinyin": "ke4", "word_sp": "课", "word_tr": "課", "glosses": ["subject", "course", "CL:門|门[men2]", "class", "lesson", "CL:堂[tang2],節|节[jie2]", "to levy", "tax", "form of divination"]}
 快		2	{"pinyin": "kuai4", "word_sp": "快", "word_tr": "快", "glosses": ["rapid", "quick", "speed", "rate", "soon", "almost", "to make haste", "clever", "sharp (of knives or wits)", "forthright", "plainspoken", "gratified", "pleased", "pleasant"]}
 快乐		2	{"pinyin": "kuai4 le4", "word_sp": "快乐", "word_tr": "快樂", "glosses": ["happy", "merry"]}
-累		2	{"pinyin": "lei2", "word_sp": "累", "word_tr": "纍", "glosses": ["rope", "to bind together", "to twist around"]}
 累		2	{"pinyin": "lei4", "word_sp": "累", "word_tr": "累", "glosses": ["tired", "weary", "to strain", "to wear out", "to work hard"]}
-累		2	{"pinyin": "lei3", "word_sp": "累", "word_tr": "累", "glosses": ["to accumulate", "to involve or implicate", "continuous", "repeated"]}
-离		2	{"pinyin": "li2", "word_sp": "离", "word_tr": "离", "glosses": ["mythical beast (archaic)"]}
 离		2	{"pinyin": "li2", "word_sp": "离", "word_tr": "離", "glosses": ["to leave", "to part from", "to be away from", "(in giving distances) from", "without (sth)", "independent of", "one of the Eight Trigrams 八卦[ba1 gua4], symbolizing fire", "☲"]}
 两		2	{"pinyin": "liang3", "word_sp": "两", "word_tr": "兩", "glosses": ["two", "both", "some", "a few", "tael, unit of weight equal to 50 grams (modern) or 1⁄16 of a catty 斤[jin1] (old)"]}
 零		2	{"pinyin": "ling2", "word_sp": "零", "word_tr": "零", "glosses": ["zero", "nought", "zero sign", "fractional", "fragmentary", "odd (of numbers)", "(placed between two numbers to indicate a smaller quantity followed by a larger one)", "fraction", "(in mathematics) remainder (after division)", "extra", "to wither and fall", "to wither"]}
@@ -276,19 +231,15 @@
 女		2	{"pinyin": "nu:3", "word_sp": "女", "word_tr": "女", "glosses": ["female", "woman", "daughter"]}
 旁边		2	{"pinyin": "pang2 bian1", "word_sp": "旁边", "word_tr": "旁邊", "glosses": ["lateral", "side", "to the side", "beside"]}
 跑步		2	{"pinyin": "pao3 bu4", "word_sp": "跑步", "word_tr": "跑步", "glosses": ["to run", "to jog", "(military) to march at the double"]}
-便宜		2	{"pinyin": "bian4 yi2", "word_sp": "便宜", "word_tr": "便宜", "glosses": ["convenient"]}
 便宜		2	{"pinyin": "pian2 yi5", "word_sp": "便宜", "word_tr": "便宜", "glosses": ["small advantages", "to let sb off lightly", "cheap", "inexpensive"]}
 票		2	{"pinyin": "piao4", "word_sp": "票", "word_tr": "票", "glosses": ["ticket", "ballot", "banknote", "CL:張|张[zhang1]", "person held for ransom", "amateur performance of Chinese opera", "classifier for groups, batches, business transactions"]}
-妻子		2	{"pinyin": "qi1 zi3", "word_sp": "妻子", "word_tr": "妻子", "glosses": ["wife and children"]}
 妻子		2	{"pinyin": "qi1 zi5", "word_sp": "妻子", "word_tr": "妻子", "glosses": ["wife", "CL:個|个[ge4]"]}
 起床		2	{"pinyin": "qi3 chuang2", "word_sp": "起床", "word_tr": "起床", "glosses": ["to get out of bed", "to get up"]}
 千		2	{"pinyin": "qian1", "word_sp": "千", "word_tr": "千", "glosses": ["thousand"]}
-千		2	{"pinyin": "qian1", "word_sp": "千", "word_tr": "韆", "glosses": ["a swing"]}
 铅笔		2	{"pinyin": "qian1 bi3", "word_sp": "铅笔", "word_tr": "鉛筆", "glosses": ["(lead) pencil", "CL:支[zhi1],枝[zhi1],桿|杆[gan3]"]}
 晴		2	{"pinyin": "qing2", "word_sp": "晴", "word_tr": "晴", "glosses": ["clear", "fine (weather)"]}
 去年		2	{"pinyin": "qu4 nian2", "word_sp": "去年", "word_tr": "去年", "glosses": ["last year"]}
 让		2	{"pinyin": "rang4", "word_sp": "让", "word_tr": "讓", "glosses": ["to yield", "to permit", "to let sb do sth", "to have sb do sth", "to make sb (feel sad etc)"]}
-日		2	{"pinyin": "Ri4", "word_sp": "日", "word_tr": "日", "glosses": ["abbr. for 日本[Ri4 ben3], Japan"]}
 日		2	{"pinyin": "ri4", "word_sp": "日", "word_tr": "日", "glosses": ["sun", "day", "date, day of the month"]}
 上班		2	{"pinyin": "shang4 ban1", "word_sp": "上班", "word_tr": "上班", "glosses": ["to go to work", "to be on duty", "to start work", "to go to the office"]}
 身体		2	{"pinyin": "shen1 ti3", "word_sp": "身体", "word_tr": "身體", "glosses": ["the body", "one's health", "CL:具[ju4],個|个[ge4]", "in person"]}
@@ -300,7 +251,11 @@
 手机		2	{"pinyin": "shou3 ji1", "word_sp": "手机", "word_tr": "手機", "glosses": ["cell phone", "mobile phone", "CL:部[bu4],支[zhi1]"]}
 说话		2	{"pinyin": "shuo1 hua4", "word_sp": "说话", "word_tr": "說話", "glosses": ["to speak", "to say", "to talk", "to gossip", "to tell stories", "talk", "word"]}
 送		2	{"pinyin": "song4", "word_sp": "送", "word_tr": "送", "glosses": ["to deliver", "to carry", "to give (as a present)", "to present (with)", "to see off", "to send"]}
+虽然		2	{"pinyin": "sui1 ran2", "word_sp": "虽然", "word_tr": "雖然", "glosses": ["although", "even though", "even if"]}
+但是		2	{"pinyin": "dan4 shi4", "word_sp": "但是", "word_tr": "但是", "glosses": ["but", "however"]}
 它		2	{"pinyin": "ta1", "word_sp": "它", "word_tr": "它", "glosses": ["it"]}
+踢		2	{"pinyin": "ti1", "word_sp": "踢", "word_tr": "踢", "glosses": ["to kick", "to play (e.g. soccer)"]}
+足球		2	{"pinyin": "zu2 qiu2", "word_sp": "足球", "word_tr": "足球", "glosses": ["soccer ball", "a football", "CL:個|个[ge4]", "soccer", "football"]}
 题		2	{"pinyin": "ti2", "word_sp": "题", "word_tr": "題", "glosses": ["topic", "problem for discussion", "exam question", "subject", "to inscribe", "to mention", "CL:個|个[ge4],道[dao4]"]}
 跳舞		2	{"pinyin": "tiao4 wu3", "word_sp": "跳舞", "word_tr": "跳舞", "glosses": ["to dance"]}
 外		2	{"pinyin": "wai4", "word_sp": "外", "word_tr": "外", "glosses": ["outside", "in addition", "foreign", "external"]}
@@ -317,34 +272,32 @@
 小时		2	{"pinyin": "xiao3 shi2", "word_sp": "小时", "word_tr": "小時", "glosses": ["hour", "CL:個|个[ge4]"]}
 笑		2	{"pinyin": "xiao4", "word_sp": "笑", "word_tr": "笑", "glosses": ["laugh", "smile", "CL:個|个[ge4]"]}
 新		2	{"pinyin": "xin1", "word_sp": "新", "word_tr": "新", "glosses": ["new", "newly", "meso- (chemistry)"]}
+姓		2	{"pinyin": "xing4", "word_sp": "姓", "word_tr": "姓", "glosses": ["family name", "surname", "CL:個|个[ge4]", "to be surnamed"]}
 休息		2	{"pinyin": "xiu1 xi5", "word_sp": "休息", "word_tr": "休息", "glosses": ["rest", "to rest"]}
 雪		2	{"pinyin": "xue3", "word_sp": "雪", "word_tr": "雪", "glosses": ["snow", "snowfall", "CL:場|场[chang2]", "to have the appearance of snow", "to wipe away, off or out", "to clean"]}
 颜色		2	{"pinyin": "yan2 se4", "word_sp": "颜色", "word_tr": "顏色", "glosses": ["color", "countenance", "appearance", "facial expression", "pigment", "dyestuff"]}
 眼睛		2	{"pinyin": "yan3 jing5", "word_sp": "眼睛", "word_tr": "眼睛", "glosses": ["eye", "CL:隻|只[zhi1],雙|双[shuang1]"]}
 羊肉		2	{"pinyin": "yang2 rou4", "word_sp": "羊肉", "word_tr": "羊肉", "glosses": ["mutton", "goat meat"]}
 药		2	{"pinyin": "yao4", "word_sp": "药", "word_tr": "藥", "glosses": ["medicine", "drug", "substance used for a specific purpose (e.g. poisoning, explosion, fermenting)", "CL:種|种[zhong3],服[fu4],味[wei4]", "to poison"]}
-要		2	{"pinyin": "yao1", "word_sp": "要", "word_tr": "要", "glosses": ["to demand", "to request", "to coerce"]}
 要		2	{"pinyin": "yao4", "word_sp": "要", "word_tr": "要", "glosses": ["important", "vital", "to want", "to ask for", "will", "going to (as future auxiliary)", "may", "must", "(used in a comparison) must be", "probably", "if"]}
 也		2	{"pinyin": "ye3", "word_sp": "也", "word_tr": "也", "glosses": ["also", "too", "(in Classical Chinese) final particle implying affirmation"]}
 一起		2	{"pinyin": "yi1 qi3", "word_sp": "一起", "word_tr": "一起", "glosses": ["in the same place", "together", "with", "altogether (in total)"]}
 一下		2	{"pinyin": "yi1 xia4", "word_sp": "一下", "word_tr": "一下", "glosses": ["(used after a verb) give it a go", "to do (sth for a bit to give it a try)", "one time", "once", "in a while", "all of a sudden", "all at once"]}
 已经		2	{"pinyin": "yi3 jing1", "word_sp": "已经", "word_tr": "已經", "glosses": ["already"]}
 意思		2	{"pinyin": "yi4 si5", "word_sp": "意思", "word_tr": "意思", "glosses": ["idea", "opinion", "meaning", "wish", "desire", "interest", "fun", "token of appreciation, affection etc", "CL:個|个[ge4]", "to give as a small token", "to do sth as a gesture of goodwill etc"]}
+因为		2	{"pinyin": "yin1 wei4", "word_sp": "因为", "word_tr": "因為", "glosses": ["because", "owing to", "on account of"]}
+所以		2	{"pinyin": "suo3 yi3", "word_sp": "所以", "word_tr": "所以", "glosses": ["therefore", "as a result", "so", "the reason why"]}
 阴		2	{"pinyin": "yin1", "word_sp": "阴", "word_tr": "陰", "glosses": ["overcast (weather)", "cloudy", "shady", "Yin (the negative principle of Yin and Yang)", "negative (electric.)", "feminine", "moon", "implicit", "hidden", "genitalia"]}
 游泳		2	{"pinyin": "you2 yong3", "word_sp": "游泳", "word_tr": "游泳", "glosses": ["swimming", "to swim"]}
 右边		2	{"pinyin": "you4 bian5", "word_sp": "右边", "word_tr": "右邊", "glosses": ["right side", "right, to the right"]}
 鱼		2	{"pinyin": "yu2", "word_sp": "鱼", "word_tr": "魚", "glosses": ["fish", "CL:條|条[tiao2],尾[wei3]"]}
-远		2	{"pinyin": "yuan4", "word_sp": "远", "word_tr": "遠", "glosses": ["to distance oneself from (classical)"]}
 远		2	{"pinyin": "yuan3", "word_sp": "远", "word_tr": "遠", "glosses": ["far", "distant", "remote", "(intensifier in a comparison) by far", "much (lower etc)"]}
 运动		2	{"pinyin": "yun4 dong4", "word_sp": "运动", "word_tr": "運動", "glosses": ["to move", "to exercise", "sports", "exercise", "motion", "movement", "campaign", "CL:場|场[chang3]"]}
 再		2	{"pinyin": "zai4", "word_sp": "再", "word_tr": "再", "glosses": ["again", "once more", "re-", "second", "another", "then (after sth, and not until then)"]}
 早上		2	{"pinyin": "zao3 shang5", "word_sp": "早上", "word_tr": "早上", "glosses": ["early morning", "CL:個|个[ge4]"]}
 丈夫		2	{"pinyin": "zhang4 fu5", "word_sp": "丈夫", "word_tr": "丈夫", "glosses": ["husband", "CL:個|个[ge4]"]}
 找		2	{"pinyin": "zhao3", "word_sp": "找", "word_tr": "找", "glosses": ["to try to find", "to look for", "to call on sb", "to find", "to seek", "to return", "to give change"]}
-着		2	{"pinyin": "zhuo2", "word_sp": "着", "word_tr": "著", "glosses": ["to wear (clothes)", "to contact", "to use", "to apply"]}
 着		2	{"pinyin": "zhe5", "word_sp": "着", "word_tr": "著", "glosses": ["aspect particle indicating action in progress"]}
-着		2	{"pinyin": "zhao2", "word_sp": "着", "word_tr": "著", "glosses": ["to touch", "to come in contact with", "to feel", "to be affected by", "to catch fire", "to burn", "(coll.) to fall asleep", "(after a verb) hitting the mark", "succeeding in"]}
-着		2	{"pinyin": "zhao1", "word_sp": "着", "word_tr": "著", "glosses": ["(chess) move", "trick", "all right!", "(dialect) to add"]}
 真		2	{"pinyin": "zhen1", "word_sp": "真", "word_tr": "真", "glosses": ["really", "truly", "indeed", "real", "true", "genuine"]}
 正在		2	{"pinyin": "zheng4 zai4", "word_sp": "正在", "word_tr": "正在", "glosses": ["just at (that time)", "right in (that place)", "right in the middle of (doing sth)"]}
 知道		2	{"pinyin": "zhi1 dao4", "word_sp": "知道", "word_tr": "知道", "glosses": ["to know", "to become aware of", "also pr. [zhi1 dao5]"]}
@@ -361,7 +314,6 @@
 矮		3	{"pinyin": "ai3", "word_sp": "矮", "word_tr": "矮", "glosses": ["low", "short (in length)"]}
 爱好		3	{"pinyin": "ai4 hao4", "word_sp": "爱好", "word_tr": "愛好", "glosses": ["to like", "to take pleasure in", "keen on", "fond of", "interest", "hobby", "appetite for", "CL:個|个[ge4]"]}
 安静		3	{"pinyin": "an1 jing4", "word_sp": "安静", "word_tr": "安靜", "glosses": ["quiet", "peaceful", "calm"]}
-把		3	{"pinyin": "ba4", "word_sp": "把", "word_tr": "把", "glosses": ["handle"]}
 把		3	{"pinyin": "ba3", "word_sp": "把", "word_tr": "把", "glosses": ["to hold", "to contain", "to grasp", "to take hold of", "handle", "particle marking the following noun as a direct object", "classifier for objects with handle", "classifier for small objects: handful"]}
 班		3	{"pinyin": "ban1", "word_sp": "班", "word_tr": "班", "glosses": ["team", "class", "squad", "work shift", "ranking", "CL:個|个[ge4]", "classifier for groups"]}
 搬		3	{"pinyin": "ban1", "word_sp": "搬", "word_tr": "搬", "glosses": ["to move (i.e. relocate oneself)", "to move (sth relatively heavy or bulky)", "to shift", "to copy indiscriminately"]}
@@ -381,13 +333,13 @@
 变化		3	{"pinyin": "bian4 hua4", "word_sp": "变化", "word_tr": "變化", "glosses": ["change", "variation", "to change", "to vary", "CL:個|个[ge4]"]}
 别人		3	{"pinyin": "bie2 ren5", "word_sp": "别人", "word_tr": "別人", "glosses": ["other people", "others", "other person"]}
 冰箱		3	{"pinyin": "bing1 xiang1", "word_sp": "冰箱", "word_tr": "冰箱", "glosses": ["icebox", "freezer cabinet", "refrigerator", "CL:臺|台[tai2],個|个[ge4]"]}
+不但		3	{"pinyin": "bu4 dan4", "word_sp": "不但", "word_tr": "不但", "glosses": ["not only (... but also...)"]}
+而且		3	{"pinyin": "er2 qie3", "word_sp": "而且", "word_tr": "而且", "glosses": ["(not only ...) but also", "moreover", "in addition", "furthermore"]}
 菜单		3	{"pinyin": "cai4 dan1", "word_sp": "菜单", "word_tr": "菜單", "glosses": ["menu", "CL:份[fen4],張|张[zhang1]"]}
 参加		3	{"pinyin": "can1 jia1", "word_sp": "参加", "word_tr": "參加", "glosses": ["to participate", "to take part", "to join"]}
 草		3	{"pinyin": "cao3", "word_sp": "草", "word_tr": "草", "glosses": ["grass", "straw", "manuscript", "draft (of a document)", "careless", "rough", "CL:棵[ke1],撮[zuo3],株[zhu1],根[gen1]"]}
 层		3	{"pinyin": "ceng2", "word_sp": "层", "word_tr": "層", "glosses": ["layer", "stratum", "laminated", "floor (of a building)", "storey", "classifier for layers", "repeated", "sheaf (math.)"]}
 差		3	{"pinyin": "cha4", "word_sp": "差", "word_tr": "差", "glosses": ["to differ from", "to fall short of", "lacking", "wrong", "inferior"]}
-差		3	{"pinyin": "chai1", "word_sp": "差", "word_tr": "差", "glosses": ["to send", "to commission", "messenger", "mission"]}
-差		3	{"pinyin": "cha1", "word_sp": "差", "word_tr": "差", "glosses": ["difference", "discrepancy", "to differ", "error", "to err", "to make a mistake"]}
 超市		3	{"pinyin": "chao1 shi4", "word_sp": "超市", "word_tr": "超市", "glosses": ["supermarket", "abbr. for 超級市場|超级市场", "CL:家[jia1]"]}
 衬衫		3	{"pinyin": "chen4 shan1", "word_sp": "衬衫", "word_tr": "襯衫", "glosses": ["shirt", "blouse", "CL:件[jian4]"]}
 成绩		3	{"pinyin": "cheng2 ji4", "word_sp": "成绩", "word_tr": "成績", "glosses": ["achievement", "performance records", "grades", "CL:項|项[xiang4],個|个[ge4]"]}
@@ -404,18 +356,15 @@
 担心		3	{"pinyin": "dan1 xin1", "word_sp": "担心", "word_tr": "擔心", "glosses": ["anxious", "worried", "uneasy", "to worry", "to be anxious"]}
 蛋糕		3	{"pinyin": "dan4 gao1", "word_sp": "蛋糕", "word_tr": "蛋糕", "glosses": ["cake", "CL:塊|块[kuai4],個|个[ge4]"]}
 当然		3	{"pinyin": "dang1 ran2", "word_sp": "当然", "word_tr": "當然", "glosses": ["only natural", "as it should be", "certainly", "of course", "without doubt"]}
-地	助词	3	{"pinyin": "di4", "word_sp": "地", "word_tr": "地", "glosses": ["earth", "ground", "field", "place", "land", "CL:片[pian4]"]}
 地	助词	3	{"pinyin": "de5", "word_sp": "地", "word_tr": "地", "glosses": ["-ly", "structural particle: used before a verb or adjective, linking it to preceding modifying adverbial adjunct"]}
 灯		3	{"pinyin": "deng1", "word_sp": "灯", "word_tr": "燈", "glosses": ["lamp", "light", "lantern", "CL:盞|盏[zhan3]"]}
 地方		3	{"pinyin": "di4 fang5", "word_sp": "地方", "word_tr": "地方", "glosses": ["area", "place", "space", "room", "territory", "CL:處|处[chu4],個|个[ge4],塊|块[kuai4]"]}
-地方		3	{"pinyin": "di4 fang1", "word_sp": "地方", "word_tr": "地方", "glosses": ["region", "regional (away from the central administration)", "local"]}
 地铁		3	{"pinyin": "di4 tie3", "word_sp": "地铁", "word_tr": "地鐵", "glosses": ["subway", "metro"]}
 地图		3	{"pinyin": "di4 tu2", "word_sp": "地图", "word_tr": "地圖", "glosses": ["map", "CL:張|张[zhang1],本[ben3]"]}
 电梯		3	{"pinyin": "dian4 ti1", "word_sp": "电梯", "word_tr": "電梯", "glosses": ["elevator", "escalator", "CL:臺|台[tai2],部[bu4]"]}
 电子邮件		3	{"pinyin": "dian4 zi3 you2 jian4", "word_sp": "电子邮件", "word_tr": "電子郵件", "glosses": ["email", "CL:封[feng1],份[fen4]"]}
 东		3	{"pinyin": "dong1", "word_sp": "东", "word_tr": "東", "glosses": ["east", "host (i.e. sitting on east side of guest)", "landlord"]}
 冬		3	{"pinyin": "dong1", "word_sp": "冬", "word_tr": "冬", "glosses": ["winter"]}
-冬		3	{"pinyin": "dong1", "word_sp": "冬", "word_tr": "鼕", "glosses": ["(onom.) beating a drum", "rat-a-tat"]}
 动物		3	{"pinyin": "dong4 wu4", "word_sp": "动物", "word_tr": "動物", "glosses": ["animal", "CL:隻|只[zhi1],群[qun2],個|个[ge4]"]}
 短		3	{"pinyin": "duan3", "word_sp": "短", "word_tr": "短", "glosses": ["short", "brief", "to lack", "weak point", "fault"]}
 段		3	{"pinyin": "duan4", "word_sp": "段", "word_tr": "段", "glosses": ["paragraph", "section", "segment", "stage (of a process)", "classifier for stories, periods of time, lengths of thread etc"]}
@@ -424,13 +373,11 @@
 饿		3	{"pinyin": "e4", "word_sp": "饿", "word_tr": "餓", "glosses": ["to be hungry", "hungry"]}
 耳朵		3	{"pinyin": "er3 duo5", "word_sp": "耳朵", "word_tr": "耳朵", "glosses": ["ear", "CL:隻|只[zhi1],個|个[ge4],對|对[dui4]", "handle (on a cup)"]}
 发		3	{"pinyin": "fa1", "word_sp": "发", "word_tr": "發", "glosses": ["to send out", "to show (one's feeling)", "to issue", "to develop", "to make a bundle of money", "classifier for gunshots (rounds)"]}
-发		3	{"pinyin": "fa4", "word_sp": "发", "word_tr": "髮", "glosses": ["hair", "Taiwan pr. [fa3]"]}
 发烧		3	{"pinyin": "fa1 shao1", "word_sp": "发烧", "word_tr": "發燒", "glosses": ["to have a high temperature (from illness)", "to have a fever"]}
 发现		3	{"pinyin": "fa1 xian4", "word_sp": "发现", "word_tr": "發現", "glosses": ["to find", "to discover"]}
 方便		3	{"pinyin": "fang1 bian4", "word_sp": "方便", "word_tr": "方便", "glosses": ["convenient", "to help out", "to make things easy for people", "convenience", "suitable", "having money to spare", "(euphemism) to go to the toilet"]}
 放		3	{"pinyin": "fang4", "word_sp": "放", "word_tr": "放", "glosses": ["to release", "to free", "to let go", "to put", "to place", "to let out", "to set off (fireworks)"]}
 放心		3	{"pinyin": "fang4 xin1", "word_sp": "放心", "word_tr": "放心", "glosses": ["to feel relieved", "to feel reassured", "to be at ease"]}
-分		3	{"pinyin": "fen4", "word_sp": "分", "word_tr": "分", "glosses": ["part", "share", "ingredient", "component"]}
 分		3	{"pinyin": "fen1", "word_sp": "分", "word_tr": "分", "glosses": ["to divide", "to separate", "to distribute", "to allocate", "to distinguish (good and bad)", "part or subdivision", "fraction", "one tenth (of certain units)", "unit of length equivalent to 0.33 cm", "minute", "a point (in sports or games)", "0.01 yuan (unit of money)"]}
 附近		3	{"pinyin": "fu4 jin4", "word_sp": "附近", "word_tr": "附近", "glosses": ["(in the) vicinity", "nearby", "neighboring", "next to"]}
 复习		3	{"pinyin": "fu4 xi2", "word_sp": "复习", "word_tr": "復習", "glosses": ["to revise", "to review", "revision", "CL:次[ci4]"]}
@@ -438,15 +385,12 @@
 感冒		3	{"pinyin": "gan3 mao4", "word_sp": "感冒", "word_tr": "感冒", "glosses": ["to catch cold", "(common) cold", "CL:場|场[chang2],次[ci4]", "(coll.) to be interested in (often used in the negative)", "(Tw) to detest", "can't stand"]}
 感兴趣		3	{"pinyin": "gan3 xing4 qu4", "word_sp": "感兴趣", "word_tr": "感興趣", "glosses": ["to be interested"]}
 刚才		3	{"pinyin": "gang1 cai2", "word_sp": "刚才", "word_tr": "剛才", "glosses": ["just now", "a moment ago"]}
-刚才		3	{"pinyin": "gang1 cai2", "word_sp": "刚才", "word_tr": "剛纔", "glosses": ["(just) a moment ago"]}
 个子		3	{"pinyin": "ge4 zi5", "word_sp": "个子", "word_tr": "個子", "glosses": ["height", "stature", "build", "size"]}
 根据		3	{"pinyin": "gen1 ju4", "word_sp": "根据", "word_tr": "根據", "glosses": ["according to", "based on", "basis", "foundation", "CL:個|个[ge4]"]}
 跟		3	{"pinyin": "gen1", "word_sp": "跟", "word_tr": "跟", "glosses": ["heel", "to follow closely", "to go with", "to marry sb (of woman)", "with", "towards", "as (compared to)", "from (different from)", "and (in addition to)"]}
 更		3	{"pinyin": "geng4", "word_sp": "更", "word_tr": "更", "glosses": ["more", "even more", "further", "still", "still more"]}
-更		3	{"pinyin": "geng1", "word_sp": "更", "word_tr": "更", "glosses": ["to change or replace", "to experience", "one of the five two hour periods into which the night was formerly divided", "watch (e.g. of a sentry or guard)"]}
 公斤		3	{"pinyin": "gong1 jin1", "word_sp": "公斤", "word_tr": "公斤", "glosses": ["kilogram (kg)"]}
 公园		3	{"pinyin": "gong1 yuan2", "word_sp": "公园", "word_tr": "公園", "glosses": ["park (for public recreation)", "CL:個|个[ge4],座[zuo4]"]}
-故事		3	{"pinyin": "gu4 shi4", "word_sp": "故事", "word_tr": "故事", "glosses": ["old practice", "CL:個|个[ge4]"]}
 故事		3	{"pinyin": "gu4 shi5", "word_sp": "故事", "word_tr": "故事", "glosses": ["narrative", "story", "tale"]}
 刮风		3	{"pinyin": "gua1 feng1", "word_sp": "刮风", "word_tr": "颳風", "glosses": ["to be windy"]}
 关		3	{"pinyin": "guan1", "word_sp": "关", "word_tr": "關", "glosses": ["mountain pass", "to close", "to shut", "to turn off", "to concern", "to involve"]}
@@ -463,10 +407,10 @@
 护照		3	{"pinyin": "hu4 zhao4", "word_sp": "护照", "word_tr": "護照", "glosses": ["passport", "CL:本[ben3],個|个[ge4]"]}
 花	名词	3	{"pinyin": "hua1", "word_sp": "花", "word_tr": "花", "glosses": ["flower", "blossom", "CL:朵[duo3],支[zhi1],束[shu4],把[ba3],盆[pen2],簇[cu4]", "fancy pattern", "florid", "to spend (money, time)"]}
 花	动词	3	{"pinyin": "hua1", "word_sp": "花", "word_tr": "花", "glosses": ["flower", "blossom", "CL:朵[duo3],支[zhi1],束[shu4],把[ba3],盆[pen2],簇[cu4]", "fancy pattern", "florid", "to spend (money, time)"]}
+画		3	{"pinyin": "hua4", "word_sp": "画", "word_tr": "畫", "glosses": ["to draw", "picture", "painting", "CL:幅[fu2],張|张[zhang1]", "classifier for paintings etc", "variant of 劃|划[hua4]"]}
 坏		3	{"pinyin": "huai4", "word_sp": "坏", "word_tr": "壞", "glosses": ["bad", "spoiled", "broken", "to break down", "(suffix) to the utmost"]}
 欢迎		3	{"pinyin": "huan1 ying2", "word_sp": "欢迎", "word_tr": "歡迎", "glosses": ["to welcome", "welcome"]}
 还	动词	3	{"pinyin": "huan2", "word_sp": "还", "word_tr": "還", "glosses": ["to pay back", "to return"]}
-还	动词	3	{"pinyin": "hai2", "word_sp": "还", "word_tr": "還", "glosses": ["still", "still in progress", "still more", "yet", "even more", "in addition", "fairly", "passably (good)", "as early as", "even", "also", "else"]}
 环境		3	{"pinyin": "huan2 jing4", "word_sp": "环境", "word_tr": "環境", "glosses": ["environment", "circumstances", "surroundings", "CL:個|个[ge4]", "ambient"]}
 换		3	{"pinyin": "huan4", "word_sp": "换", "word_tr": "換", "glosses": ["to exchange", "to change (clothes etc)", "to substitute", "to switch", "to convert (currency)"]}
 黄河		3	{"pinyin": "Huang2 He2", "word_sp": "黄河", "word_tr": "黃河", "glosses": ["Yellow River or Huang He"]}
@@ -483,10 +427,8 @@
 见面		3	{"pinyin": "jian4 mian4", "word_sp": "见面", "word_tr": "見面", "glosses": ["to meet", "to see each other", "CL:次[ci4]"]}
 健康		3	{"pinyin": "jian4 kang1", "word_sp": "健康", "word_tr": "健康", "glosses": ["health", "healthy"]}
 讲		3	{"pinyin": "jiang3", "word_sp": "讲", "word_tr": "講", "glosses": ["to speak", "to explain", "to negotiate", "to emphasise", "to be particular about", "as far as sth is concerned", "speech", "lecture"]}
-教		3	{"pinyin": "jiao4", "word_sp": "教", "word_tr": "教", "glosses": ["religion", "teaching", "to make", "to cause", "to tell"]}
 教		3	{"pinyin": "jiao1", "word_sp": "教", "word_tr": "教", "glosses": ["to teach"]}
 角		3	{"pinyin": "jiao3", "word_sp": "角", "word_tr": "角", "glosses": ["angle", "corner", "horn", "horn-shaped", "unit of money equal to 0.1 yuan", "CL:個|个[ge4]"]}
-角		3	{"pinyin": "jue2", "word_sp": "角", "word_tr": "角", "glosses": ["role (theater)", "to compete", "ancient three legged wine vessel", "third note of pentatonic scale"]}
 脚		3	{"pinyin": "jiao3", "word_sp": "脚", "word_tr": "腳", "glosses": ["foot", "leg (of an animal or an object)", "base (of an object)", "CL:雙|双[shuang1],隻|只[zhi1]", "classifier for kicks"]}
 接		3	{"pinyin": "jie1", "word_sp": "接", "word_tr": "接", "glosses": ["to receive", "to answer (the phone)", "to meet or welcome sb", "to connect", "to catch", "to join", "to extend", "to take one's turn on duty", "to take over for sb"]}
 街道		3	{"pinyin": "jie1 dao4", "word_sp": "街道", "word_tr": "街道", "glosses": ["street", "CL:條|条[tiao2]", "subdistrict", "residential district"]}
@@ -513,6 +455,7 @@
 裤子		3	{"pinyin": "ku4 zi5", "word_sp": "裤子", "word_tr": "褲子", "glosses": ["trousers", "pants", "CL:條|条[tiao2]"]}
 筷子		3	{"pinyin": "kuai4 zi5", "word_sp": "筷子", "word_tr": "筷子", "glosses": ["chopsticks", "CL:對|对[dui4],根[gen1],把[ba3],雙|双[shuang1]"]}
 蓝		3	{"pinyin": "lan2", "word_sp": "蓝", "word_tr": "藍", "glosses": ["blue", "indigo plant"]}
+老		3	{"pinyin": "lao3", "word_sp": "老", "word_tr": "老", "glosses": ["prefix used before the surname of a person or a numeral indicating the order of birth of the children in a family or to indicate affection or familiarity", "old (of people)", "venerable (person)", "experienced", "of long standing", "always", "all the time", "of the past", "very", "outdated", "(of meat etc) tough"]}
 离开		3	{"pinyin": "li2 kai1", "word_sp": "离开", "word_tr": "離開", "glosses": ["to depart", "to leave"]}
 礼物		3	{"pinyin": "li3 wu4", "word_sp": "礼物", "word_tr": "禮物", "glosses": ["gift", "present", "CL:件[jian4],個|个[ge4],份[fen4]"]}
 历史		3	{"pinyin": "li4 shi3", "word_sp": "历史", "word_tr": "歷史", "glosses": ["history", "CL:門|门[men2],段[duan4]"]}
@@ -521,7 +464,6 @@
 辆		3	{"pinyin": "liang4", "word_sp": "辆", "word_tr": "輛", "glosses": ["classifier for vehicles"]}
 聊天		3	{"pinyin": "liao2 tian1", "word_sp": "聊天", "word_tr": "聊天", "glosses": ["to chat", "to gossip"]}
 了解		3	{"pinyin": "liao3 jie3", "word_sp": "了解", "word_tr": "了解", "glosses": ["to understand", "to realize", "to find out"]}
-了解		3	{"pinyin": "liao3 jie3", "word_sp": "了解", "word_tr": "瞭解", "glosses": ["to understand", "to realize", "to find out"]}
 邻居		3	{"pinyin": "lin2 ju1", "word_sp": "邻居", "word_tr": "鄰居", "glosses": ["neighbor", "next door", "CL:個|个[ge4]"]}
 留学		3	{"pinyin": "liu2 xue2", "word_sp": "留学", "word_tr": "留學", "glosses": ["to study abroad"]}
 楼		3	{"pinyin": "lou2", "word_sp": "楼", "word_tr": "樓", "glosses": ["house with more than 1 story", "storied building", "floor", "CL:層|层[ceng2],座[zuo4],棟|栋[dong4]"]}
@@ -537,7 +479,6 @@
 奶奶		3	{"pinyin": "nai3 nai5", "word_sp": "奶奶", "word_tr": "奶奶", "glosses": ["(informal) grandma (paternal grandmother)", "(respectful) mistress of the house", "CL:位[wei4]", "(coll.) boobies", "breasts"]}
 南		3	{"pinyin": "nan2", "word_sp": "南", "word_tr": "南", "glosses": ["south"]}
 难		3	{"pinyin": "nan2", "word_sp": "难", "word_tr": "難", "glosses": ["difficult (to...)", "problem", "difficulty", "difficult", "not good"]}
-难		3	{"pinyin": "nan4", "word_sp": "难", "word_tr": "難", "glosses": ["disaster", "distress", "to scold"]}
 难过		3	{"pinyin": "nan2 guo4", "word_sp": "难过", "word_tr": "難過", "glosses": ["to feel sad", "to feel unwell", "(of life) to be difficult"]}
 年级		3	{"pinyin": "nian2 ji2", "word_sp": "年级", "word_tr": "年級", "glosses": ["grade", "year (in school, college etc)", "CL:個|个[ge4]"]}
 年轻		3	{"pinyin": "nian2 qing1", "word_sp": "年轻", "word_tr": "年輕", "glosses": ["young"]}
@@ -546,7 +487,6 @@
 爬山		3	{"pinyin": "pa2 shan1", "word_sp": "爬山", "word_tr": "爬山", "glosses": ["to climb a mountain", "to mountaineer", "hiking", "mountaineering"]}
 盘子		3	{"pinyin": "pan2 zi5", "word_sp": "盘子", "word_tr": "盤子", "glosses": ["tray", "plate", "dish", "CL:個|个[ge4]"]}
 胖		3	{"pinyin": "pang4", "word_sp": "胖", "word_tr": "胖", "glosses": ["fat", "plump"]}
-胖		3	{"pinyin": "pan2", "word_sp": "胖", "word_tr": "胖", "glosses": ["healthy", "at ease"]}
 皮鞋		3	{"pinyin": "pi2 xie2", "word_sp": "皮鞋", "word_tr": "皮鞋", "glosses": ["leather shoes"]}
 啤酒		3	{"pinyin": "pi2 jiu3", "word_sp": "啤酒", "word_tr": "啤酒", "glosses": ["beer (loanword)", "CL:杯[bei1],瓶[ping2],罐[guan4],桶[tong3],缸[gang1]"]}
 瓶子		3	{"pinyin": "ping2 zi5", "word_sp": "瓶子", "word_tr": "瓶子", "glosses": ["bottle", "CL:個|个[ge4]"]}
@@ -554,14 +494,12 @@
 其他		3	{"pinyin": "qi2 ta1", "word_sp": "其他", "word_tr": "其他", "glosses": ["other", "(sth or sb) else", "the rest"]}
 奇怪		3	{"pinyin": "qi2 guai4", "word_sp": "奇怪", "word_tr": "奇怪", "glosses": ["strange", "odd", "to marvel", "to be baffled"]}
 骑		3	{"pinyin": "qi2", "word_sp": "骑", "word_tr": "騎", "glosses": ["to ride (an animal or bike)", "to sit astride", "classifier for saddle-horses"]}
-骑		3	{"pinyin": "ji4", "word_sp": "骑", "word_tr": "騎", "glosses": ["(Taiwan) saddle horse", "mounted soldier"]}
 起飞		3	{"pinyin": "qi3 fei1", "word_sp": "起飞", "word_tr": "起飛", "glosses": ["(of an aircraft) to take off"]}
 起来		3	{"pinyin": "qi3 lai5", "word_sp": "起来", "word_tr": "起來", "glosses": ["to stand up", "to get up"]}
 起来		3	{"pinyin": "qi5 lai5", "word_sp": "起来", "word_tr": "起來", "glosses": ["(after a verb) indicating the beginning and continuation of an action or a state", "indicating an upward movement (e.g. after 站[zhan4])", "bringing things together (e.g. after 收拾[shou1 shi5])", "(after a perception verb, e.g. 看[kan4]) expressing preliminary judgement"]}
 清楚		3	{"pinyin": "qing1 chu5", "word_sp": "清楚", "word_tr": "清楚", "glosses": ["clear", "distinct", "to understand thoroughly", "to be clear about"]}
 请假		3	{"pinyin": "qing3 jia4", "word_sp": "请假", "word_tr": "請假", "glosses": ["to request leave of absence"]}
 秋		3	{"pinyin": "qiu1", "word_sp": "秋", "word_tr": "秋", "glosses": ["autumn", "fall", "harvest time", "a swing"]}
-秋		3	{"pinyin": "qiu1", "word_sp": "秋", "word_tr": "鞦", "glosses": ["a swing"]}
 裙子		3	{"pinyin": "qun2 zi5", "word_sp": "裙子", "word_tr": "裙子", "glosses": ["skirt", "CL:條|条[tiao2]"]}
 然后		3	{"pinyin": "ran2 hou4", "word_sp": "然后", "word_tr": "然後", "glosses": ["after", "then (afterwards)", "after that", "afterwards"]}
 热情		3	{"pinyin": "re4 qing2", "word_sp": "热情", "word_tr": "熱情", "glosses": ["cordial", "enthusiastic", "passion", "passionate", "passionately"]}
@@ -666,6 +604,7 @@
 只	副词	3	{"pinyin": "zhi1", "word_sp": "只", "word_tr": "隻", "glosses": ["classifier for birds and certain animals, one of a pair, some utensils, vessels etc"]}
 只	副词	3	{"pinyin": "zhi3", "word_sp": "只", "word_tr": "祇", "glosses": ["but", "only"]}
 只	副词	3	{"pinyin": "zhi3", "word_sp": "只", "word_tr": "只", "glosses": ["only", "merely", "just", "but"]}
+只有……才……		3	NO ENTRIES FOUND!!!
 中间		3	{"pinyin": "zhong1 jian1", "word_sp": "中间", "word_tr": "中間", "glosses": ["between", "intermediate", "mid", "middle"]}
 中文		3	{"pinyin": "Zhong1 wen2", "word_sp": "中文", "word_tr": "中文", "glosses": ["Chinese", "Chinese written language", "Chinese writing"]}
 终于		3	{"pinyin": "zhong1 yu2", "word_sp": "终于", "word_tr": "終於", "glosses": ["at last", "in the end", "finally", "eventually"]}
@@ -807,7 +746,9 @@
 方向		4	{"pinyin": "fang1 xiang4", "word_sp": "方向", "word_tr": "方向", "glosses": ["direction", "orientation", "path to follow", "CL:個|个[ge4]"]}
 房东		4	{"pinyin": "fang2 dong1", "word_sp": "房东", "word_tr": "房東", "glosses": ["landlord"]}
 放弃		4	{"pinyin": "fang4 qi4", "word_sp": "放弃", "word_tr": "放棄", "glosses": ["to renounce", "to abandon", "to give up"]}
+放暑假		4	NO ENTRIES FOUND!!!
 放松		4	{"pinyin": "fang4 song1", "word_sp": "放松", "word_tr": "放鬆", "glosses": ["to loosen", "to relax"]}
+份		4	NO ENTRIES FOUND!!!
 丰富		4	{"pinyin": "feng1 fu4", "word_sp": "丰富", "word_tr": "豐富", "glosses": ["to enrich", "rich", "plentiful", "abundant"]}
 否则		4	{"pinyin": "fou3 ze2", "word_sp": "否则", "word_tr": "否則", "glosses": ["if not", "otherwise", "else", "or else"]}
 符合		4	{"pinyin": "fu2 he2", "word_sp": "符合", "word_tr": "符合", "glosses": ["in keeping with", "in accordance with", "tallying with", "in line with", "to agree with", "to accord with", "to conform to", "to correspond with", "to manage", "to handle"]}
@@ -1023,6 +964,7 @@
 排队		4	{"pinyin": "pai2 dui4", "word_sp": "排队", "word_tr": "排隊", "glosses": ["to line up"]}
 排列		4	{"pinyin": "pai2 lie4", "word_sp": "排列", "word_tr": "排列", "glosses": ["array", "arrangement", "permutation (i.e. ordered choice of n elements out of m)"]}
 判断		4	{"pinyin": "pan4 duan4", "word_sp": "判断", "word_tr": "判斷", "glosses": ["to decide", "to determine", "CL:個|个[ge4]"]}
+陪		4	NO ENTRIES FOUND!!!
 批评		4	{"pinyin": "pi1 ping2", "word_sp": "批评", "word_tr": "批評", "glosses": ["to criticize", "criticism", "CL:個|个[ge4]"]}
 皮肤		4	{"pinyin": "pi2 fu1", "word_sp": "皮肤", "word_tr": "皮膚", "glosses": ["skin", "CL:層|层[ceng2],塊|块[kuai4]"]}
 脾气		4	{"pinyin": "pi2 qi5", "word_sp": "脾气", "word_tr": "脾氣", "glosses": ["character", "temperament", "disposition", "bad temper", "CL:個|个[ge4]"]}
@@ -1126,6 +1068,7 @@
 抬		4	{"pinyin": "tai2", "word_sp": "抬", "word_tr": "抬", "glosses": ["to lift", "to raise", "(of two or more persons) to carry"]}
 态度		4	{"pinyin": "tai4 du5", "word_sp": "态度", "word_tr": "態度", "glosses": ["manner", "bearing", "attitude", "approach", "CL:個|个[ge4]"]}
 谈		4	{"pinyin": "tan2", "word_sp": "谈", "word_tr": "談", "glosses": ["to speak", "to talk", "to converse", "to chat", "to discuss"]}
+弹钢琴		4	NO ENTRIES FOUND!!!
 汤		4	{"pinyin": "tang1", "word_sp": "汤", "word_tr": "湯", "glosses": ["soup", "hot or boiling water", "decoction of medicinal herbs", "water in which sth has been boiled"]}
 汤		4	{"pinyin": "shang1", "word_sp": "汤", "word_tr": "湯", "glosses": ["rushing current"]}
 糖		4	{"pinyin": "tang2", "word_sp": "糖", "word_tr": "糖", "glosses": ["sugar", "sweets", "candy", "CL:顆|颗[ke1],塊|块[kuai4]"]}
@@ -1789,8 +1732,10 @@
 计算		5	{"pinyin": "ji4 suan4", "word_sp": "计算", "word_tr": "計算", "glosses": ["to count", "to calculate", "to compute", "CL:個|个[ge4]"]}
 记录		5	{"pinyin": "ji4 lu4", "word_sp": "记录", "word_tr": "記錄", "glosses": ["to record", "record (written account)", "note-taker", "record (in sports etc)", "CL:個|个[ge4]"]}
 记忆		5	{"pinyin": "ji4 yi4", "word_sp": "记忆", "word_tr": "記憶", "glosses": ["to remember", "to recall", "memory", "CL:個|个[ge4]"]}
+纪录		5	NO ENTRIES FOUND!!!
 纪律		5	{"pinyin": "ji4 lu:4", "word_sp": "纪律", "word_tr": "紀律", "glosses": ["discipline"]}
 纪念		5	{"pinyin": "ji4 nian4", "word_sp": "纪念", "word_tr": "紀念", "glosses": ["to commemorate", "to remember", "CL:個|个[ge4]"]}
+系领带		5	NO ENTRIES FOUND!!!
 寂寞		5	{"pinyin": "ji4 mo4", "word_sp": "寂寞", "word_tr": "寂寞", "glosses": ["lonely", "lonesome", "(of a place) quiet", "silent"]}
 夹子		5	{"pinyin": "jia1 zi5", "word_sp": "夹子", "word_tr": "夾子", "glosses": ["clip", "clamp", "tongs", "folder", "wallet"]}
 家庭		5	{"pinyin": "jia1 ting2", "word_sp": "家庭", "word_tr": "家庭", "glosses": ["family", "household", "CL:戶|户[hu4],個|个[ge4]"]}
@@ -2218,6 +2163,7 @@
 实验		5	{"pinyin": "shi2 yan4", "word_sp": "实验", "word_tr": "實驗", "glosses": ["experiment", "test", "CL:個|个[ge4],次[ci4]", "experimental", "to experiment"]}
 实用		5	{"pinyin": "shi2 yong4", "word_sp": "实用", "word_tr": "實用", "glosses": ["practical", "functional", "pragmatic", "applied (science)"]}
 食物		5	{"pinyin": "shi2 wu4", "word_sp": "食物", "word_tr": "食物", "glosses": ["food", "CL:種|种[zhong3]"]}
+使劲儿		5	NO ENTRIES FOUND!!!
 始终		5	{"pinyin": "shi3 zhong1", "word_sp": "始终", "word_tr": "始終", "glosses": ["from beginning to end", "all along"]}
 士兵		5	{"pinyin": "shi4 bing1", "word_sp": "士兵", "word_tr": "士兵", "glosses": ["soldier", "CL:個|个[ge4]"]}
 市场		5	{"pinyin": "shi4 chang3", "word_sp": "市场", "word_tr": "市場", "glosses": ["marketplace", "market (also in abstract)"]}
@@ -3039,6 +2985,7 @@
 搓		6	{"pinyin": "cuo1", "word_sp": "搓", "word_tr": "搓", "glosses": ["to rub or roll between the hands or fingers", "to twist"]}
 磋商		6	{"pinyin": "cuo1 shang1", "word_sp": "磋商", "word_tr": "磋商", "glosses": ["to consult", "to discuss seriously", "to negotiate", "to confer", "negotiations", "consultations"]}
 挫折		6	{"pinyin": "cuo4 zhe2", "word_sp": "挫折", "word_tr": "挫折", "glosses": ["setback", "reverse", "check", "defeat", "frustration", "disappointment", "to frustrate", "to discourage", "to set sb back", "to blunt", "to subdue"]}
+搭		6	NO ENTRIES FOUND!!!
 搭档		6	{"pinyin": "da1 dang4", "word_sp": "搭档", "word_tr": "搭檔", "glosses": ["to cooperate", "partner"]}
 搭配		6	{"pinyin": "da1 pei4", "word_sp": "搭配", "word_tr": "搭配", "glosses": ["to pair up", "to match", "to arrange in pairs", "to add sth into a group"]}
 达成		6	{"pinyin": "da2 cheng2", "word_sp": "达成", "word_tr": "達成", "glosses": ["to reach (an agreement)", "to accomplish"]}
@@ -3053,6 +3000,7 @@
 打仗		6	{"pinyin": "da3 zhang4", "word_sp": "打仗", "word_tr": "打仗", "glosses": ["to fight a battle", "to go to war"]}
 大不了		6	{"pinyin": "da4 bu4 liao3", "word_sp": "大不了", "word_tr": "大不了", "glosses": ["at worst", "if worst comes to worst", "serious", "alarming"]}
 大臣		6	{"pinyin": "da4 chen2", "word_sp": "大臣", "word_tr": "大臣", "glosses": ["chancellor (of a monarchy)", "cabinet minister"]}
+大伙儿		6	NO ENTRIES FOUND!!!
 大肆		6	{"pinyin": "da4 si4", "word_sp": "大肆", "word_tr": "大肆", "glosses": ["wantonly", "without restraint (of enemy or malefactor)", "unbridled"]}
 大体		6	{"pinyin": "da4 ti3", "word_sp": "大体", "word_tr": "大體", "glosses": ["in general", "more or less", "in rough terms", "basically", "on the whole"]}
 大意		6	{"pinyin": "da4 yi5", "word_sp": "大意", "word_tr": "大意", "glosses": ["careless"]}
@@ -3925,6 +3873,7 @@
 轮胎		6	{"pinyin": "lun2 tai1", "word_sp": "轮胎", "word_tr": "輪胎", "glosses": ["tire", "pneumatic tire"]}
 论坛		6	{"pinyin": "lun4 tan2", "word_sp": "论坛", "word_tr": "論壇", "glosses": ["forum (for discussion)"]}
 论证		6	{"pinyin": "lun4 zheng4", "word_sp": "论证", "word_tr": "論證", "glosses": ["to prove a point", "to expound on", "to demonstrate or prove (through argument)", "proof"]}
+啰唆		6	NO ENTRIES FOUND!!!
 络绎不绝		6	{"pinyin": "luo4 yi4 bu4 jue2", "word_sp": "络绎不绝", "word_tr": "絡繹不絕", "glosses": ["continuously; in an endless stream (idiom)"]}
 落成		6	{"pinyin": "luo4 cheng2", "word_sp": "落成", "word_tr": "落成", "glosses": ["to complete a construction project"]}
 落实		6	{"pinyin": "luo4 shi2", "word_sp": "落实", "word_tr": "落實", "glosses": ["practical", "workable", "to implement", "to carry out", "to decide"]}
@@ -4003,6 +3952,7 @@
 魔术		6	{"pinyin": "mo2 shu4", "word_sp": "魔术", "word_tr": "魔術", "glosses": ["magic"]}
 抹杀		6	{"pinyin": "mo3 sha1", "word_sp": "抹杀", "word_tr": "抹殺", "glosses": ["to erase", "to cover traces", "to obliterate evidence", "to expunge", "to blot out", "to suppress"]}
 莫名其妙		6	{"pinyin": "mo4 ming2 qi2 miao4", "word_sp": "莫名其妙", "word_tr": "莫名其妙", "glosses": ["unfathomable mystery (idiom); subtle and ineffable", "unable to make head or tail of it", "boring (e.g. movie)"]}
+墨水儿		6	NO ENTRIES FOUND!!!
 默默		6	{"pinyin": "mo4 mo4", "word_sp": "默默", "word_tr": "默默", "glosses": ["in silence", "not speaking"]}
 谋求		6	{"pinyin": "mou2 qiu2", "word_sp": "谋求", "word_tr": "謀求", "glosses": ["to seek", "to strive for"]}
 模样		6	{"pinyin": "mu2 yang4", "word_sp": "模样", "word_tr": "模樣", "glosses": ["look", "style", "appearance", "approximation", "about", "CL:個|个[ge4]", "also pr. [mo2 yang4]"]}
@@ -4011,6 +3961,7 @@
 目光		6	{"pinyin": "mu4 guang1", "word_sp": "目光", "word_tr": "目光", "glosses": ["sight", "vision", "view", "gaze", "look"]}
 沐浴		6	{"pinyin": "mu4 yu4", "word_sp": "沐浴", "word_tr": "沐浴", "glosses": ["to take a bath", "to bathe", "to immerse"]}
 拿手		6	{"pinyin": "na2 shou3", "word_sp": "拿手", "word_tr": "拿手", "glosses": ["expert in", "good at"]}
+纳闷儿		6	NO ENTRIES FOUND!!!
 耐用		6	{"pinyin": "nai4 yong4", "word_sp": "耐用", "word_tr": "耐用", "glosses": ["durable"]}
 南辕北辙		6	{"pinyin": "nan2 yuan2 bei3 zhe2", "word_sp": "南辕北辙", "word_tr": "南轅北轍", "glosses": ["to act in a way that defeats one's purpose (idiom)"]}
 难得		6	{"pinyin": "nan2 de2", "word_sp": "难得", "word_tr": "難得", "glosses": ["seldom", "rare", "hard to come by"]}
@@ -4034,6 +3985,7 @@
 宁肯		6	{"pinyin": "ning4 ken3", "word_sp": "宁肯", "word_tr": "寧肯", "glosses": ["would rather...", "it would be better...", "would prefer"]}
 宁愿		6	{"pinyin": "ning4 yuan4", "word_sp": "宁愿", "word_tr": "寧願", "glosses": ["would rather", "better"]}
 扭转		6	{"pinyin": "niu3 zhuan3", "word_sp": "扭转", "word_tr": "扭轉", "glosses": ["to reverse", "to turn around (an undesirable situation)"]}
+纽扣儿		6	NO ENTRIES FOUND!!!
 农历		6	{"pinyin": "nong2 li4", "word_sp": "农历", "word_tr": "農曆", "glosses": ["the traditional Chinese calendar", "the lunar calendar"]}
 浓厚		6	{"pinyin": "nong2 hou4", "word_sp": "浓厚", "word_tr": "濃厚", "glosses": ["dense", "thick (fog, clouds etc)", "to have a strong interest in", "deep", "fully saturated (color)"]}
 奴隶		6	{"pinyin": "nu2 li4", "word_sp": "奴隶", "word_tr": "奴隸", "glosses": ["slave"]}
@@ -4586,6 +4538,7 @@
 完备		6	{"pinyin": "wan2 bei4", "word_sp": "完备", "word_tr": "完備", "glosses": ["faultless", "complete", "perfect", "to leave nothing to be desired"]}
 完毕		6	{"pinyin": "wan2 bi4", "word_sp": "完毕", "word_tr": "完畢", "glosses": ["to finish", "to end", "to complete"]}
 玩弄		6	{"pinyin": "wan2 nong4", "word_sp": "玩弄", "word_tr": "玩弄", "glosses": ["to play with", "to toy with", "to dally with", "to engage in", "to resort to"]}
+玩意儿		6	NO ENTRIES FOUND!!!
 顽固		6	{"pinyin": "wan2 gu4", "word_sp": "顽固", "word_tr": "頑固", "glosses": ["stubborn", "obstinate"]}
 顽强		6	{"pinyin": "wan2 qiang2", "word_sp": "顽强", "word_tr": "頑強", "glosses": ["tenacious", "hard to defeat"]}
 挽回		6	{"pinyin": "wan3 hui2", "word_sp": "挽回", "word_tr": "挽回", "glosses": ["to retrieve", "to redeem"]}
@@ -4685,6 +4638,7 @@
 掀起		6	{"pinyin": "xian1 qi3", "word_sp": "掀起", "word_tr": "掀起", "glosses": ["to lift", "to raise in height", "to begin", "upsurge", "to set off (a campaign)"]}
 鲜明		6	{"pinyin": "xian1 ming2", "word_sp": "鲜明", "word_tr": "鮮明", "glosses": ["bright", "clear-cut", "distinct"]}
 闲话		6	{"pinyin": "xian2 hua4", "word_sp": "闲话", "word_tr": "閒話", "glosses": ["digression", "gossip", "complaint", "scandal", "CL:段[duan4]"]}
+贤惠		6	NO ENTRIES FOUND!!!
 弦		6	{"pinyin": "xian2", "word_sp": "弦", "word_tr": "弦", "glosses": ["bow string", "string of musical instrument", "watchspring", "chord (segment of curve)", "hypotenuse", "CL:根[gen1]"]}
 衔接		6	{"pinyin": "xian2 jie1", "word_sp": "衔接", "word_tr": "銜接", "glosses": ["to join together", "to combine"]}
 嫌		6	{"pinyin": "xian2", "word_sp": "嫌", "word_tr": "嫌", "glosses": ["to dislike", "suspicion", "resentment", "enmity", "abbr. for 嫌犯[xian2 fan4], criminal suspect"]}
@@ -4698,6 +4652,7 @@
 陷害		6	{"pinyin": "xian4 hai4", "word_sp": "陷害", "word_tr": "陷害", "glosses": ["to entrap", "to set up", "to frame (up)", "to make false charges against"]}
 陷阱		6	{"pinyin": "xian4 jing3", "word_sp": "陷阱", "word_tr": "陷阱", "glosses": ["pitfall", "snare", "trap"]}
 陷入		6	{"pinyin": "xian4 ru4", "word_sp": "陷入", "word_tr": "陷入", "glosses": ["to sink into", "to get caught up in", "to land in (a predicament)"]}
+馅儿		6	NO ENTRIES FOUND!!!
 乡镇		6	{"pinyin": "xiang1 zhen4", "word_sp": "乡镇", "word_tr": "鄉鎮", "glosses": ["village", "township"]}
 相差		6	{"pinyin": "xiang1 cha4", "word_sp": "相差", "word_tr": "相差", "glosses": ["to differ", "discrepancy between"]}
 相等		6	{"pinyin": "xiang1 deng3", "word_sp": "相等", "word_tr": "相等", "glosses": ["equal", "equally", "equivalent"]}
@@ -4818,6 +4773,7 @@
 压制		6	{"pinyin": "ya1 zhi4", "word_sp": "压制", "word_tr": "壓制", "glosses": ["to suppress", "to inhibit", "to stifle"]}
 鸦雀无声		6	{"pinyin": "ya1 que4 wu2 sheng1", "word_sp": "鸦雀无声", "word_tr": "鴉雀無聲", "glosses": ["lit. crow and peacock make no sound", "absolute silence (idiom); not a single voice can be heard", "absolute silence"]}
 亚军		6	{"pinyin": "ya4 jun1", "word_sp": "亚军", "word_tr": "亞軍", "glosses": ["second place (in a sports contest)", "runner-up"]}
+烟花爆竹		6	NO ENTRIES FOUND!!!
 淹没		6	{"pinyin": "yan1 mo4", "word_sp": "淹没", "word_tr": "淹沒", "glosses": ["to submerge", "to drown", "to flood", "to drown out (also fig.)"]}
 延期		6	{"pinyin": "yan2 qi1", "word_sp": "延期", "word_tr": "延期", "glosses": ["to delay", "to extend", "to postpone", "to defer"]}
 延伸		6	{"pinyin": "yan2 shen1", "word_sp": "延伸", "word_tr": "延伸", "glosses": ["to extend", "to spread"]}
@@ -4896,6 +4852,7 @@
 意志		6	{"pinyin": "yi4 zhi4", "word_sp": "意志", "word_tr": "意志", "glosses": ["will", "willpower", "determination", "CL:個|个[ge4]"]}
 毅力		6	{"pinyin": "yi4 li4", "word_sp": "毅力", "word_tr": "毅力", "glosses": ["perseverance", "willpower"]}
 毅然		6	{"pinyin": "yi4 ran2", "word_sp": "毅然", "word_tr": "毅然", "glosses": ["firmly", "resolutely", "without hesitation"]}
+翼		6	NO ENTRIES FOUND!!!
 阴谋		6	{"pinyin": "yin1 mou2", "word_sp": "阴谋", "word_tr": "陰謀", "glosses": ["plot", "conspiracy"]}
 音响		6	{"pinyin": "yin1 xiang3", "word_sp": "音响", "word_tr": "音響", "glosses": ["sound", "acoustics", "audio", "hi-fi system", "stereo sound system", "abbr. for 組合音響|组合音响[zu3 he2 yin1 xiang3]"]}
 引导		6	{"pinyin": "yin3 dao3", "word_sp": "引导", "word_tr": "引導", "glosses": ["to guide", "to lead (around)", "to conduct", "to boot", "introduction", "primer"]}
