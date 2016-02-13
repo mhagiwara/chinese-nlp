@@ -17,6 +17,10 @@
 等	助词	4	{"pinyin": "deng3", "word_sp": "等", "word_tr": "等", "glosses": ["class", "rank", "grade", "equal to", "same as", "to wait for", "to await", "et cetera", "and so on", "et al. (and other authors)", "after", "as soon as", "once"]}
 
 
+# Only variant was found
+
+纪录		5	{"pinyin": "ji4 lu4", "word_sp": "记录", "word_tr": "記錄", "glosses": ["to record", "record (written account)", "note-taker", "record (in sports etc)", "CL:個|个[ge4]"]}
+
 # Mutiple word entry
 
 打篮球 --> 打+篮球
@@ -67,3 +71,12 @@
 
 大方		5	{"pinyin": "da4 fang5", "word_sp": "大方", "word_tr": "大方", "glosses": ["generous", "magnanimous", "stylish", "in good taste", "easy-mannered", "natural and relaxed"]}
 大方		5	{"pinyin": "da4 fang1", "word_sp": "大方", "word_tr": "大方", "glosses": ["expert", "scholar", "mother earth", "a type of green tea"]}
+
+划		5	{"pinyin": "hua2", "word_sp": "划", "word_tr": "划", "glosses": ["to row", "to paddle", "profitable", "worth (the effort)", "it pays (to do sth)"]}
+划		5	{"pinyin": "hua4", "word_sp": "划", "word_tr": "劃", "glosses": ["to delimit", "to transfer", "to assign", "to plan", "to draw (a line)", "stroke of a Chinese character"]}
+
+精神		5	{"pinyin": "jing1 shen5", "word_sp": "精神", "word_tr": "精神", "glosses": ["vigor", "vitality", "drive", "spiritual"]}
+精神		5	{"pinyin": "jing1 shen2", "word_sp": "精神", "word_tr": "精神", "glosses": ["spirit", "mind", "consciousness", "thought", "mental", "psychological", "essence", "gist", "CL:個|个[ge4]"]}
+
+嗯		5	{"pinyin": "en4", "word_sp": "嗯", "word_tr": "嗯", "glosses": ["(nonverbal grunt as interjection)", "OK, yeah", "what?"]}
+嗯		5	{"pinyin": "en5", "word_sp": "嗯", "word_tr": "嗯", "glosses": ["interjection indicating approval, appreciation or agreement"]}

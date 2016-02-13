@@ -1582,7 +1582,6 @@
 观点		5	{"pinyin": "guan1 dian3", "word_sp": "观点", "word_tr": "觀點", "glosses": ["point of view", "viewpoint", "standpoint", "CL:個|个[ge4]"]}
 观念		5	{"pinyin": "guan1 nian4", "word_sp": "观念", "word_tr": "觀念", "glosses": ["notion", "thought", "concept", "sense", "views", "ideology", "general impressions"]}
 官		5	{"pinyin": "guan1", "word_sp": "官", "word_tr": "官", "glosses": ["official", "government", "organ of body", "CL:個|个[ge4]"]}
-管子		5	{"pinyin": "Guan3 zi3", "word_sp": "管子", "word_tr": "管子", "glosses": ["Guanzi or Guan Zhong 管仲 (-645 BC), famous politician of Qi 齊國|齐国 of Spring and Autumn period", "Guanzi, classical book containing writings of Guan Zhong and his school"]}
 管子		5	{"pinyin": "guan3 zi5", "word_sp": "管子", "word_tr": "管子", "glosses": ["tube", "pipe", "drinking straw", "CL:根[gen1]"]}
 冠军		5	{"pinyin": "guan4 jun1", "word_sp": "冠军", "word_tr": "冠軍", "glosses": ["champion", "CL:個|个[ge4]"]}
 光滑		5	{"pinyin": "guang1 hua2", "word_sp": "光滑", "word_tr": "光滑", "glosses": ["glossy", "sleek", "smooth"]}
@@ -1607,8 +1606,6 @@
 过分		5	{"pinyin": "guo4 fen4", "word_sp": "过分", "word_tr": "過分", "glosses": ["excessive", "undue", "overly"]}
 过敏		5	{"pinyin": "guo4 min3", "word_sp": "过敏", "word_tr": "過敏", "glosses": ["to be allergic", "allergy"]}
 过期		5	{"pinyin": "guo4 qi1", "word_sp": "过期", "word_tr": "過期", "glosses": ["to be overdue", "to exceed the time limit", "to expire (as in expiration date)"]}
-哈		5	{"pinyin": "ha3", "word_sp": "哈", "word_tr": "哈", "glosses": ["a Pekinese", "a pug", "(dialect) to scold"]}
-哈		5	{"pinyin": "Ha1", "word_sp": "哈", "word_tr": "哈", "glosses": ["abbr. for 哈薩克斯坦|哈萨克斯坦[Ha1 sa4 ke4 si1 tan3], Kazakhstan", "abbr. for 哈爾濱|哈尔滨[Ha1 er3 bin1], Harbin"]}
 哈		5	{"pinyin": "ha1", "word_sp": "哈", "word_tr": "哈", "glosses": ["laughter", "yawn"]}
 海关		5	{"pinyin": "hai3 guan1", "word_sp": "海关", "word_tr": "海關", "glosses": ["customs (i.e. border crossing inspection)", "CL:個|个[ge4]"]}
 海鲜		5	{"pinyin": "hai3 xian1", "word_sp": "海鲜", "word_tr": "海鮮", "glosses": ["seafood"]}
@@ -1625,7 +1622,6 @@
 何必		5	{"pinyin": "he2 bi4", "word_sp": "何必", "word_tr": "何必", "glosses": ["there is no need", "why should"]}
 何况		5	{"pinyin": "he2 kuang4", "word_sp": "何况", "word_tr": "何況", "glosses": ["let alone", "to say nothing of", "besides", "what's more"]}
 和平		5	{"pinyin": "he2 ping2", "word_sp": "和平", "word_tr": "和平", "glosses": ["peace", "peaceful"]}
-和平		5	{"pinyin": "He2 ping2", "word_sp": "和平", "word_tr": "和平", "glosses": ["Heping district of Shenyang city 沈陽市|沈阳市, Liaoning", "Hoping township in Taichung county 臺中縣|台中县[Tai2 zhong1 xian4], Taiwan"]}
 核心		5	{"pinyin": "he2 xin1", "word_sp": "核心", "word_tr": "核心", "glosses": ["core", "nucleus"]}
 恨		5	{"pinyin": "hen4", "word_sp": "恨", "word_tr": "恨", "glosses": ["to hate", "to regret"]}
 猴子		5	{"pinyin": "hou2 zi5", "word_sp": "猴子", "word_tr": "猴子", "glosses": ["monkey", "CL:隻|只[zhi1]"]}
@@ -1640,7 +1636,6 @@
 蝴蝶		5	{"pinyin": "hu2 die2", "word_sp": "蝴蝶", "word_tr": "蝴蝶", "glosses": ["butterfly", "CL:隻|只[zhi1]"]}
 糊涂		5	{"pinyin": "hu2 tu5", "word_sp": "糊涂", "word_tr": "糊塗", "glosses": ["muddled", "silly", "confused"]}
 花生		5	{"pinyin": "hua1 sheng1", "word_sp": "花生", "word_tr": "花生", "glosses": ["peanut", "groundnut", "CL:粒[li4]"]}
-划		5	{"pinyin": "hua2", "word_sp": "划", "word_tr": "劃", "glosses": ["to cut", "to slash", "to scratch (cut into the surface of sth)", "to strike (a match)"]}
 划		5	{"pinyin": "hua2", "word_sp": "划", "word_tr": "划", "glosses": ["to row", "to paddle", "profitable", "worth (the effort)", "it pays (to do sth)"]}
 划		5	{"pinyin": "hua4", "word_sp": "划", "word_tr": "劃", "glosses": ["to delimit", "to transfer", "to assign", "to plan", "to draw (a line)", "stroke of a Chinese character"]}
 华裔		5	{"pinyin": "Hua2 yi4", "word_sp": "华裔", "word_tr": "華裔", "glosses": ["ethnic Chinese", "non-Chinese citizen of Chinese ancestry"]}
@@ -1679,10 +1674,11 @@
 计算		5	{"pinyin": "ji4 suan4", "word_sp": "计算", "word_tr": "計算", "glosses": ["to count", "to calculate", "to compute", "CL:個|个[ge4]"]}
 记录		5	{"pinyin": "ji4 lu4", "word_sp": "记录", "word_tr": "記錄", "glosses": ["to record", "record (written account)", "note-taker", "record (in sports etc)", "CL:個|个[ge4]"]}
 记忆		5	{"pinyin": "ji4 yi4", "word_sp": "记忆", "word_tr": "記憶", "glosses": ["to remember", "to recall", "memory", "CL:個|个[ge4]"]}
-纪录		5	NO ENTRIES FOUND!!!
+纪录		5	{"pinyin": "ji4 lu4", "word_sp": "记录", "word_tr": "記錄", "glosses": ["to record", "record (written account)", "note-taker", "record (in sports etc)", "CL:個|个[ge4]"]}
 纪律		5	{"pinyin": "ji4 lu:4", "word_sp": "纪律", "word_tr": "紀律", "glosses": ["discipline"]}
 纪念		5	{"pinyin": "ji4 nian4", "word_sp": "纪念", "word_tr": "紀念", "glosses": ["to commemorate", "to remember", "CL:個|个[ge4]"]}
-系领带		5	NO ENTRIES FOUND!!!
+系		5	{"pinyin": "ji4", "word_sp": "系", "word_tr": "繫", "glosses": ["to tie", "to fasten", "to button up"]}
+领带		5	{"pinyin": "ling3 dai4", "word_sp": "领带", "word_tr": "領帶", "glosses": ["necktie", "CL:條|条[tiao2]"]}
 寂寞		5	{"pinyin": "ji4 mo4", "word_sp": "寂寞", "word_tr": "寂寞", "glosses": ["lonely", "lonesome", "(of a place) quiet", "silent"]}
 夹子		5	{"pinyin": "jia1 zi5", "word_sp": "夹子", "word_tr": "夾子", "glosses": ["clip", "clamp", "tongs", "folder", "wallet"]}
 家庭		5	{"pinyin": "jia1 ting2", "word_sp": "家庭", "word_tr": "家庭", "glosses": ["family", "household", "CL:戶|户[hu4],個|个[ge4]"]}
@@ -1725,7 +1721,6 @@
 教练		5	{"pinyin": "jiao4 lian4", "word_sp": "教练", "word_tr": "教練", "glosses": ["instructor", "sports coach", "trainer", "CL:個|个[ge4],位[wei4],名[ming2]"]}
 教训		5	{"pinyin": "jiao4 xun5", "word_sp": "教训", "word_tr": "教訓", "glosses": ["lesson", "moral", "to chide sb", "to lecture sb"]}
 阶段		5	{"pinyin": "jie1 duan4", "word_sp": "阶段", "word_tr": "階段", "glosses": ["stage", "section", "phase", "period", "CL:個|个[ge4]"]}
-结实		5	{"pinyin": "jie1 shi2", "word_sp": "结实", "word_tr": "結實", "glosses": ["to bear fruit"]}
 结实		5	{"pinyin": "jie1 shi5", "word_sp": "结实", "word_tr": "結實", "glosses": ["rugged", "sturdy", "strong", "durable", "buff (physique)"]}
 接触		5	{"pinyin": "jie1 chu4", "word_sp": "接触", "word_tr": "接觸", "glosses": ["to touch", "to contact", "access", "in touch with"]}
 接待		5	{"pinyin": "jie1 dai4", "word_sp": "接待", "word_tr": "接待", "glosses": ["to receive (a visitor)", "to admit (allow sb to enter)"]}
@@ -1740,10 +1735,7 @@
 届		5	{"pinyin": "jie4", "word_sp": "届", "word_tr": "屆", "glosses": ["to arrive at (place or time)", "period", "to become due", "classifier for events, meetings, elections, sporting fixtures, years (of graduation)"]}
 借口		5	{"pinyin": "jie4 kou3", "word_sp": "借口", "word_tr": "借口", "glosses": ["to use as an excuse", "on the pretext", "excuse", "pretext"]}
 金属		5	{"pinyin": "jin1 shu3", "word_sp": "金属", "word_tr": "金屬", "glosses": ["metal", "CL:種|种[zhong3]"]}
-尽快		5	{"pinyin": "jin3 kuai4", "word_sp": "尽快", "word_tr": "盡快", "glosses": ["as quickly as possible", "as soon as possible", "with all speed"]}
 尽快		5	{"pinyin": "jin3 kuai4", "word_sp": "尽快", "word_tr": "儘快", "glosses": ["as quickly as possible", "as soon as possible", "with all speed", "also written 盡快|尽快"]}
-尽快		5	{"pinyin": "jin4 kuai4", "word_sp": "尽快", "word_tr": "儘快", "glosses": ["see 盡快|尽快[jin3 kuai4]"]}
-尽量		5	{"pinyin": "jin3 liang4", "word_sp": "尽量", "word_tr": "儘量", "glosses": ["as much as possible", "to the greatest extent"]}
 尽量		5	{"pinyin": "jin4 liang4", "word_sp": "尽量", "word_tr": "盡量", "glosses": ["as much as possible", "to the greatest extent"]}
 紧急		5	{"pinyin": "jin3 ji2", "word_sp": "紧急", "word_tr": "緊急", "glosses": ["urgent", "emergency"]}
 谨慎		5	{"pinyin": "jin3 shen4", "word_sp": "谨慎", "word_tr": "謹慎", "glosses": ["cautious", "prudent"]}
@@ -1788,9 +1780,7 @@
 可见		5	{"pinyin": "ke3 jian4", "word_sp": "可见", "word_tr": "可見", "glosses": ["it can clearly be seen (that this is the case)", "it is (thus) clear", "clear", "visible"]}
 可靠		5	{"pinyin": "ke3 kao4", "word_sp": "可靠", "word_tr": "可靠", "glosses": ["reliable"]}
 可怕		5	{"pinyin": "ke3 pa4", "word_sp": "可怕", "word_tr": "可怕", "glosses": ["awful", "dreadful", "fearful", "formidable", "frightful", "scary", "hideous", "horrible", "terrible", "terribly"]}
-克		5	{"pinyin": "kei1", "word_sp": "克", "word_tr": "剋", "glosses": ["to scold", "to beat"]}
 克		5	{"pinyin": "ke4", "word_sp": "克", "word_tr": "克", "glosses": ["to be able to", "to subdue", "to restrain", "to overcome", "gram", "Tibetan unit of land area, about 6 ares"]}
-克		5	{"pinyin": "Ke4", "word_sp": "克", "word_tr": "剋", "glosses": ["Ke (c. 2000 BC), seventh of the legendary Flame Emperors, 炎帝[Yan2 di4] descended from Shennong 神農|神农[Shen2 nong2] Farmer God"]}
 克服		5	{"pinyin": "ke4 fu2", "word_sp": "克服", "word_tr": "克服", "glosses": ["(try to) overcome (hardships etc)", "to conquer", "to put up with", "to endure"]}
 刻苦		5	{"pinyin": "ke4 ku3", "word_sp": "刻苦", "word_tr": "刻苦", "glosses": ["hardworking", "assiduous"]}
 客观		5	{"pinyin": "ke4 guan1", "word_sp": "客观", "word_tr": "客觀", "glosses": ["objective", "impartial"]}
@@ -1799,7 +1789,6 @@
 空闲		5	{"pinyin": "kong4 xian2", "word_sp": "空闲", "word_tr": "空閒", "glosses": ["idle", "free time", "leisure", "unused (place)"]}
 控制		5	{"pinyin": "kong4 zhi4", "word_sp": "控制", "word_tr": "控制", "glosses": ["control", "to exercise control over", "to contain"]}
 口味		5	{"pinyin": "kou3 wei4", "word_sp": "口味", "word_tr": "口味", "glosses": ["a person's preferences", "tastes (in food)", "flavor"]}
-夸		5	{"pinyin": "kua1", "word_sp": "夸", "word_tr": "夸", "glosses": ["see 夸克[kua1 ke4]"]}
 夸		5	{"pinyin": "kua1", "word_sp": "夸", "word_tr": "誇", "glosses": ["to boast", "to exaggerate", "to praise"]}
 夸张		5	{"pinyin": "kua1 zhang1", "word_sp": "夸张", "word_tr": "誇張", "glosses": ["to exaggerate", "overstated", "exaggerated", "hyperbole", "(coll.) excessive", "extreme", "ridiculous"]}
 会计		5	{"pinyin": "kuai4 ji4", "word_sp": "会计", "word_tr": "會計", "glosses": ["accountant", "accountancy", "accounting"]}
@@ -1807,14 +1796,12 @@
 昆虫		5	{"pinyin": "kun1 chong2", "word_sp": "昆虫", "word_tr": "昆蟲", "glosses": ["insect", "CL:隻|只[zhi1],群[qun2],堆[dui1]"]}
 扩大		5	{"pinyin": "kuo4 da4", "word_sp": "扩大", "word_tr": "擴大", "glosses": ["to expand", "to enlarge", "to broaden one's scope"]}
 辣椒		5	{"pinyin": "la4 jiao1", "word_sp": "辣椒", "word_tr": "辣椒", "glosses": ["hot pepper", "chili"]}
-拦		5	{"pinyin": "lan2", "word_sp": "拦", "word_tr": "攔", "glosses": ["to block sb's path", "to obstruct", "to flag down (a taxi)"]}
 烂		5	{"pinyin": "lan4", "word_sp": "烂", "word_tr": "爛", "glosses": ["soft", "mushy", "well-cooked and soft", "to rot", "to decompose", "rotten", "worn out", "chaotic", "messy", "utterly", "thoroughly", "crappy", "bad"]}
 朗读		5	{"pinyin": "lang3 du2", "word_sp": "朗读", "word_tr": "朗讀", "glosses": ["to read aloud"]}
 劳动		5	{"pinyin": "lao2 dong4", "word_sp": "劳动", "word_tr": "勞動", "glosses": ["work", "toil", "physical labor", "CL:次[ci4]"]}
 劳驾		5	{"pinyin": "lao2 jia4", "word_sp": "劳驾", "word_tr": "勞駕", "glosses": ["excuse me"]}
 老百姓		5	{"pinyin": "lao3 bai3 xing4", "word_sp": "老百姓", "word_tr": "老百姓", "glosses": ["ordinary people", "the \"person in the street\"", "CL:個|个[ge4]"]}
 老板		5	{"pinyin": "lao3 ban3", "word_sp": "老板", "word_tr": "老闆", "glosses": ["boss", "business proprietor", "CL:個|个[ge4]"]}
-老板		5	{"pinyin": "Lao3 ban3", "word_sp": "老板", "word_tr": "老闆", "glosses": ["Robam (brand)"]}
 老婆		5	{"pinyin": "lao3 po2", "word_sp": "老婆", "word_tr": "老婆", "glosses": ["(coll.) wife"]}
 老实		5	{"pinyin": "lao3 shi5", "word_sp": "老实", "word_tr": "老實", "glosses": ["honest", "sincere", "well-behaved", "open and guileless", "naive"]}
 老鼠		5	{"pinyin": "lao3 shu3", "word_sp": "老鼠", "word_tr": "老鼠", "glosses": ["rat", "mouse", "CL:隻|只[zhi1]"]}
@@ -1823,7 +1810,6 @@
 雷		5	{"pinyin": "lei2", "word_sp": "雷", "word_tr": "雷", "glosses": ["thunder", "mine (weapon)", "(Internet slang) terrifying", "terrific"]}
 类型		5	{"pinyin": "lei4 xing2", "word_sp": "类型", "word_tr": "類型", "glosses": ["type", "category", "genre", "form", "style"]}
 冷淡		5	{"pinyin": "leng3 dan4", "word_sp": "冷淡", "word_tr": "冷淡", "glosses": ["cold", "indifferent"]}
-厘米		5	{"pinyin": "li2 mi3", "word_sp": "厘米", "word_tr": "釐米", "glosses": ["centimeter", "also written 厘米"]}
 厘米		5	{"pinyin": "li2 mi3", "word_sp": "厘米", "word_tr": "厘米", "glosses": ["centimeter", "also written 釐米|厘米"]}
 离婚		5	{"pinyin": "li2 hun1", "word_sp": "离婚", "word_tr": "離婚", "glosses": ["to divorce", "divorced from (one's spouse)"]}
 梨		5	{"pinyin": "li2", "word_sp": "梨", "word_tr": "梨", "glosses": ["pear", "CL:個|个[ge4]"]}
@@ -1918,7 +1904,6 @@
 能干		5	{"pinyin": "neng2 gan4", "word_sp": "能干", "word_tr": "能幹", "glosses": ["capable", "competent"]}
 能源		5	{"pinyin": "neng2 yuan2", "word_sp": "能源", "word_tr": "能源", "glosses": ["energy", "power source", "CL:個|个[ge4]"]}
 嗯		5	{"pinyin": "en4", "word_sp": "嗯", "word_tr": "嗯", "glosses": ["(nonverbal grunt as interjection)", "OK, yeah", "what?"]}
-嗯		5	{"pinyin": "en1", "word_sp": "嗯", "word_tr": "嗯", "glosses": ["(a groaning sound)"]}
 嗯		5	{"pinyin": "en5", "word_sp": "嗯", "word_tr": "嗯", "glosses": ["interjection indicating approval, appreciation or agreement"]}
 年代		5	{"pinyin": "nian2 dai4", "word_sp": "年代", "word_tr": "年代", "glosses": ["a decade of a century (e.g. the Sixties)", "age", "era", "period", "CL:個|个[ge4]"]}
 年纪		5	{"pinyin": "nian2 ji4", "word_sp": "年纪", "word_tr": "年紀", "glosses": ["age", "CL:把[ba3],個|个[ge4]"]}
@@ -1947,9 +1932,7 @@
 披		5	{"pinyin": "pi1", "word_sp": "披", "word_tr": "披", "glosses": ["to drape over one's shoulders", "to open", "to unroll", "to split open", "to spread out"]}
 疲劳		5	{"pinyin": "pi2 lao2", "word_sp": "疲劳", "word_tr": "疲勞", "glosses": ["fatigue", "wearily", "weariness", "weary"]}
 匹		5	{"pinyin": "pi3", "word_sp": "匹", "word_tr": "匹", "glosses": ["classifier for horses, mules etc", "Taiwan pr. [pi1]", "ordinary person", "classifier for cloth: bolt", "horsepower"]}
-匹		5	{"pinyin": "pi1", "word_sp": "匹", "word_tr": "匹", "glosses": ["mate", "one of a pair"]}
 片		5	{"pinyin": "pian4", "word_sp": "片", "word_tr": "片", "glosses": ["thin piece", "flake", "a slice", "film", "TV play", "to slice", "to carve thin", "partial", "incomplete", "one-sided", "classifier for slices, tablets, tract of land, area of water", "classifier for CDs, movies, DVDs etc", "used with numeral 一[yi1]: classifier for scenario, scene, feeling, atmosphere, sound etc"]}
-片		5	{"pinyin": "pian1", "word_sp": "片", "word_tr": "片", "glosses": ["disk", "sheet"]}
 片面		5	{"pinyin": "pian4 mian4", "word_sp": "片面", "word_tr": "片面", "glosses": ["unilateral", "one-sided"]}
 飘		5	{"pinyin": "piao1", "word_sp": "飘", "word_tr": "飄", "glosses": ["to float"]}
 拼音		5	{"pinyin": "pin1 yin1", "word_sp": "拼音", "word_tr": "拼音", "glosses": ["phonetic writing", "pinyin (Chinese romanization)"]}
@@ -1978,7 +1961,6 @@
 谦虚		5	{"pinyin": "qian1 xu1", "word_sp": "谦虚", "word_tr": "謙虛", "glosses": ["modest", "self-effacing", "to make modest remarks"]}
 签		5	{"pinyin": "qian1", "word_sp": "签", "word_tr": "籤", "glosses": ["inscribed bamboo stick (used in divination, gambling, drawing lots etc)", "small wood sliver", "label", "tag"]}
 前途		5	{"pinyin": "qian2 tu2", "word_sp": "前途", "word_tr": "前途", "glosses": ["prospects", "future outlook", "journey"]}
-浅		5	{"pinyin": "jian1", "word_sp": "浅", "word_tr": "淺", "glosses": ["sound of moving water"]}
 浅		5	{"pinyin": "qian3", "word_sp": "浅", "word_tr": "淺", "glosses": ["shallow", "light (color)"]}
 欠		5	{"pinyin": "qian4", "word_sp": "欠", "word_tr": "欠", "glosses": ["deficient", "to owe", "to lack", "yawn"]}
 枪		5	{"pinyin": "qiang1", "word_sp": "枪", "word_tr": "槍", "glosses": ["gun", "firearm", "rifle", "spear", "thing with shape or function similar to a gun", "CL:支[zhi1],把[ba3],桿|杆[gan3],條|条[tiao2],枝[zhi1]", "to substitute for another person in a test", "to knock", "classifier for rifle shots"]}
@@ -1986,17 +1968,14 @@
 强烈		5	{"pinyin": "qiang2 lie4", "word_sp": "强烈", "word_tr": "強烈", "glosses": ["intense", "(violently) strong"]}
 墙		5	{"pinyin": "qiang2", "word_sp": "墙", "word_tr": "牆", "glosses": ["wall", "CL:面[mian4],堵[du3]"]}
 抢		5	{"pinyin": "qiang3", "word_sp": "抢", "word_tr": "搶", "glosses": ["to fight over", "to rush", "to scramble", "to grab", "to rob", "to snatch"]}
-抢		5	{"pinyin": "qiang1", "word_sp": "抢", "word_tr": "搶", "glosses": ["see 搶風|抢风[qiang1 feng1]"]}
 悄悄		5	{"pinyin": "qiao1 qiao1", "word_sp": "悄悄", "word_tr": "悄悄", "glosses": ["quietly", "secretly", "stealthily", "quiet", "worried", "Taiwan pr. [qiao3 qiao3]"]}
 瞧		5	{"pinyin": "qiao2", "word_sp": "瞧", "word_tr": "瞧", "glosses": ["to look at", "to see", "to see (a doctor)", "to visit"]}
 巧妙		5	{"pinyin": "qiao3 miao4", "word_sp": "巧妙", "word_tr": "巧妙", "glosses": ["ingenious", "clever", "ingenuity", "artifice"]}
-切		5	{"pinyin": "qie4", "word_sp": "切", "word_tr": "切", "glosses": ["definitely", "absolutely (not)", "(scoffing or dismissive interjection) Yeah, right.", "Tut!", "to grind", "close to", "eager", "to correspond to", "see also 反切[fan3 qie4]"]}
 切		5	{"pinyin": "qie1", "word_sp": "切", "word_tr": "切", "glosses": ["to cut", "to slice", "tangent (math)"]}
 亲爱		5	{"pinyin": "qin1 ai4", "word_sp": "亲爱", "word_tr": "親愛", "glosses": ["dear", "beloved", "darling"]}
 亲切		5	{"pinyin": "qin1 qie4", "word_sp": "亲切", "word_tr": "親切", "glosses": ["amiable", "cordial", "close and dear", "familiar"]}
 亲自		5	{"pinyin": "qin1 zi4", "word_sp": "亲自", "word_tr": "親自", "glosses": ["personally", "in person", "oneself"]}
 勤奋		5	{"pinyin": "qin2 fen4", "word_sp": "勤奋", "word_tr": "勤奮", "glosses": ["hardworking", "diligent"]}
-青		5	{"pinyin": "Qing1", "word_sp": "青", "word_tr": "青", "glosses": ["abbr. for 青海[Qing1 hai3], Qinghai Province"]}
 青		5	{"pinyin": "qing1", "word_sp": "青", "word_tr": "青", "glosses": ["nature's color", "green or blue", "greenish black", "youth", "young (of people)"]}
 青春		5	{"pinyin": "qing1 chun1", "word_sp": "青春", "word_tr": "青春", "glosses": ["youth", "youthfulness"]}
 青少年		5	{"pinyin": "qing1 shao4 nian2", "word_sp": "青少年", "word_tr": "青少年", "glosses": ["adolescent", "youth", "teenager"]}
@@ -2012,9 +1991,7 @@
 取消		5	{"pinyin": "qu3 xiao1", "word_sp": "取消", "word_tr": "取消", "glosses": ["to cancel", "cancellation"]}
 娶		5	{"pinyin": "qu3", "word_sp": "娶", "word_tr": "娶", "glosses": ["to take a wife", "to marry (a woman)"]}
 去世		5	{"pinyin": "qu4 shi4", "word_sp": "去世", "word_tr": "去世", "glosses": ["to pass away", "to die"]}
-圈		5	{"pinyin": "juan4", "word_sp": "圈", "word_tr": "圈", "glosses": ["pen (pig)", "a fold"]}
 圈		5	{"pinyin": "quan1", "word_sp": "圈", "word_tr": "圈", "glosses": ["circle", "ring", "loop", "classifier for loops, orbits, laps of race etc", "CL:個|个[ge4]", "to surround", "to circle"]}
-圈		5	{"pinyin": "juan1", "word_sp": "圈", "word_tr": "圈", "glosses": ["to confine", "to lock up", "to pen in"]}
 权力		5	{"pinyin": "quan2 li4", "word_sp": "权力", "word_tr": "權力", "glosses": ["power", "authority"]}
 权利		5	{"pinyin": "quan2 li4", "word_sp": "权利", "word_tr": "權利", "glosses": ["power", "right", "privilege"]}
 全面		5	{"pinyin": "quan2 mian4", "word_sp": "全面", "word_tr": "全面", "glosses": ["all-around", "comprehensive", "total", "overall"]}
