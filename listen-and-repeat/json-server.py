@@ -5,6 +5,7 @@ Simple JSON HTTP Server.
 https://github.com/mathisonian/simple-testing-server/blob/master/simple-testing-server.py
 """
 
+from urlparse import urlparse, parse_qs
 from BaseHTTPServer import HTTPServer
 from BaseHTTPServer import BaseHTTPRequestHandler
 
@@ -15,6 +16,10 @@ class JSONRequestHandler(BaseHTTPRequestHandler):
     FILE_PREFIX = '.'
 
     def do_GET(self):
+        # Parse the request URL
+        parsed_url = urlparse(self.path)
+        query_dict = parse_qs(parsed_url.query)
+        path = parsed_url.path
 
         # send response code:
         self.send_response(200)
@@ -24,10 +29,12 @@ class JSONRequestHandler(BaseHTTPRequestHandler):
         self.wfile.write("\n")
 
         try:
-            output = open(self.FILE_PREFIX + "/" + self.path[1:] + ".json", 'r').read()
+            output = open(self.FILE_PREFIX + "/" + path[1:] + ".json", 'r').read()
         except IOError:
-            output = '{"error": "Could not find file ' + self.path[1:] + '.json"}'
+            output = '{"error": "Could not find file ' + path[1:] + '.json"}'
+        self.wfile.write(query_dict['callback'][0] + '(')
         self.wfile.write(output)
+        self.wfile.write(')')
 
 if __name__ == "__main__":
     import argparse
