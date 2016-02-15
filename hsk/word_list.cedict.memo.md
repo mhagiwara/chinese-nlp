@@ -80,3 +80,12 @@
 
 嗯		5	{"pinyin": "en4", "word_sp": "嗯", "word_tr": "嗯", "glosses": ["(nonverbal grunt as interjection)", "OK, yeah", "what?"]}
 嗯		5	{"pinyin": "en5", "word_sp": "嗯", "word_tr": "嗯", "glosses": ["interjection indicating approval, appreciation or agreement"]}
+
+数		5	{"pinyin": "shu4", "word_sp": "数", "word_tr": "數", "glosses": ["number", "figure", "several", "CL:個|个[ge4]"]}
+数		5	{"pinyin": "shu3", "word_sp": "数", "word_tr": "數", "glosses": ["to count", "to enumerate", "to criticize (i.e. enumerate shortcomings)"]}s
+
+网络		5	{"pinyin": "wang3 luo4", "word_sp": "网络", "word_tr": "網絡", "glosses": ["network (computing, telecommunications, transport etc)"]}
+网络		5	{"pinyin": "Wang3 luo4", "word_sp": "网络", "word_tr": "網絡", "glosses": ["Internet"]}
+
+涨		5	{"pinyin": "zhang4", "word_sp": "涨", "word_tr": "漲", "glosses": ["to swell", "to distend"]}
+涨		5	{"pinyin": "zhang3", "word_sp": "涨", "word_tr": "漲", "glosses": ["to rise (of prices, rivers)"]}
